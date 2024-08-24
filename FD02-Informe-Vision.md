@@ -18,7 +18,12 @@ Docente: Mag. Patrick Cuadros Quiroga
 
 Integrantes:
 
--Escobar Rejas, Carlos Andrés    (2021070016)
+-Escobar Rejas, Carlos Andrés   (2021070016)
+-Apaza Ccalle, Albert Kenyi     (2021071075)
+-Ricardo Cutipa Gutierrez 	    (2021069827)
+-Erick Churacutipa Blass 	    (2020067578)
+-Jesus Huallpa Maron 		    (2021071085)
+
 
 **Tacna – Perú**
 

@@ -37,7 +37,7 @@ Integrantes:
 |CONTROL DE VERSIONES||||||
 | :-: | :- | :- | :- | :- | :- |
 |Versión|Hecha por|Revisada por|Aprobada por|Fecha|Motivo|
-|1\.0|MPV|ELV|ARV|24/08/2024|Versión Original|
+|1\.0|Apaza|ELV|ARV|24/08/2024|Versión Original|
 
 
 
@@ -50,7 +50,7 @@ Integrantes:
 
 
 
-**Sistema *{Nombre del Sistema}***
+**Sistema *Herramienta de Seguimiento y Evaluación del Desempeño de Red y Hardware en Computadoras UPT***
 
 **Documento de Visión**
 
@@ -146,16 +146,55 @@ e) Estandaraes de calidad y seguridad	](#_toc394513800)42
 **<u>Informe de Visión</u>**
 
 1. <span id="_Toc52661346" class="anchor"></span>**Introducción**
+   Este documento presenta el proyecto para la recopilación y análisis de datos del sistema de computadoras en la Universidad Privada de Tacna, en el contexto del curso de Inteligencia de Negocios. El propósito principal es evaluar el rendimiento de los equipos y la eficiencia del uso de recursos en el área de soporte de la Escuela Profesional de Ingeniería de Sistemas (EPIS), turno tarde.
+
+
 
     1.1	Propósito
+       
+        Recopilar y analizar datos del sistema: Obtener información detallada sobre el uso de recursos de las computadoras en el laboratorio de pruebas.
+       
+        Evaluar el rendimiento y el consumo: Identificar el consumo de energía, el rendimiento en términos de uso de CPU, RAM y GPU, así como el consumo de internet.
+       
+        Optimización del soporte: Proporcionar datos útiles para mejorar el soporte técnico y el mantenimiento de las computadoras.
+
 
     1.2	Alcance
+       
+       Área de estudio: Computadoras en el laboratorio de pruebas de la Universidad Privada de Tacna.
+       
+        Datos a recopilar: Temperatura durante la sesión, número de sesiones, consumo de internet (Mbps), número de clics, programas más utilizados, y software con mayor consumo de recursos (CPU, RAM, GPU).
+    
+        Metodología: Utilización de un script en Python con la biblioteca psutil para recopilar datos de rendimiento y actividad.
+   
+   
 
     1.3	Definiciones, Siglas y Abreviaturas
+       
+        CPU: Unidad Central de Procesamiento (Central Processing Unit).
+       
+        RAM: Memoria de Acceso Aleatorio (Random Access Memory).
+       
+        GPU: Unidad de Procesamiento Gráfico (Graphics Processing Unit).
+       
+        Mbps: Megabits por segundo (Megabits per second).
+       
+        psutil: Biblioteca de Python para la recopilación de información del sistema y el monitoreo de recursos.
+   
 
     1.4	Referencias
+    
+        Documentación de psutil: https://psutil.readthedocs.io
+            Guías de Python: https://docs.python.org
+            Manual de la Universidad Privada de Tacna: Normas y permisos para el uso de laboratorios.
 
     1.5	Visión General
+
+        Este proyecto se centrará en la recopilación de datos relevantes del sistema para identificar patrones y áreas de mejora. Se llevará a cabo de la siguiente manera:
+                
+           Implementación del script: El script en Python se ejecutará en el laboratorio de pruebas con el permiso de la escuela para capturar los datos necesarios.
+                Análisis de datos: Evaluar los datos recopilados para determinar el consumo de recursos y el rendimiento general del sistema.
+                Informe de resultados: Presentar un informe detallado con los hallazgos y recomendaciones para optimizar el uso de los recursos en las computadoras.
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 

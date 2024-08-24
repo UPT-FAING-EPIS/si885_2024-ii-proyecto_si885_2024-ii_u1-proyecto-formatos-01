@@ -14,7 +14,7 @@
 
 Curso: Inteligencia de Negocios
 
-Docente: Mag. Patrick Cuadros Quiroga
+Docente: Mag. Patrick Cuadros Quiroga 
 
 Integrantes:
 

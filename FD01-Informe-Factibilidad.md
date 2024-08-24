@@ -12,17 +12,17 @@
 
 **Proyecto *{Nombre de Proyecto}***
 
-Curso: *{Nombre de Asignatura}*
+Curso: Inteligencia de Negocios
 
-Docente: *{Nombre de Docente}*
+Docente: Mag. Patrick Cuadros Quiroga
 
 Integrantes:
 
-***{Apellidos y nombres del estudiante (código universitario)}***
+-Escobar Rejas, Carlos Andrés    (2021070016)
 
 **Tacna – Perú**
 
-***{Año}***
+2024
 
 **  
 **

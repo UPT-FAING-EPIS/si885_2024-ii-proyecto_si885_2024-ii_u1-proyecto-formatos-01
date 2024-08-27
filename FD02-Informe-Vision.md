@@ -12,17 +12,17 @@
 
 **Proyecto *{Nombre de Proyecto}***
 
-Curso: *{Nombre de Asignatura}*
+Curso: *INTELIGENCIA DE NEGOCIOS*
 
-Docente: *{Nombre de Docente}*
+Docente: *PATRICK JOSE CUADROS QUIROGA*
 
 Integrantes:
 
-***{Apellidos y nombres del estudiante (código universitario)}***
+***BRICEÑO DIAZ JORGE LUIS (2017059611)***
 
 **Tacna – Perú**
 
-***{Año}***
+***2024***
 
 **  
 **

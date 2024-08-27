@@ -12,25 +12,22 @@
 
 **Proyecto *Herramienta de Seguimiento y Evaluación del Desempeño de Red y Hardware en Computadoras UPT***
 
-Curso: Inteligencia de Negocios
+**Curso:** Inteligencia de Negocios
 
-Docente: Mag. Patrick Cuadros Quiroga
+**Docente:** Mag. Patrick Cuadros Quiroga
 
-Integrantes:
+**Integrantes:**
 
--Escobar Rejas, Carlos Andrés   (2021070016)
--Apaza Ccalle, Albert Kenyi     (2021071075)
--Ricardo Cutipa Gutierrez 	    (2021069827)
--Erick Churacutipa Blass 	    (2020067578)
--Jesus Huallpa Maron 		    (2021071085)
-
+Escobar Rejas, Carlos Andrés (2021070016)  
+Apaza Ccalle, Albert Kenyi (2021071075)  
+Ricardo Cutipa Gutierrez (2021069827)  
+Erick Churacutipa Blass (2020067578)  
+Jesus Huallpa Maron (2021071085)
 
 **Tacna – Perú**
 
-2024
+**2024**
 
-**  
-**
 </center>
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 

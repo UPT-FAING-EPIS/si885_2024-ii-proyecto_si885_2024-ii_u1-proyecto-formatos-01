@@ -1,4 +1,4 @@
-**![C:\\Users\\EPIS\\Documents\\upt.png][image1]**
+**![/media/logo-upt.png][image1]**
 
 **UNIVERSIDAD PRIVADA DE TACNA**
 
@@ -142,6 +142,10 @@ Integrantes:
 
 **1\.	Introducción**
 
+En el competitivo panorama educativo actual, la capacidad de una universidad para atraer y seleccionar a los candidatos adecuados es crucial para garantizar el éxito académico y la excelencia institucional. Con la creciente demanda y la diversidad en los perfiles de los postulantes, el proceso de admisión se enfrenta a desafíos sin precedentes, donde la eficiencia y precisión son más importantes que nunca.
+El Sistema de Predicción de Postulantes para la Universidad Nacional de Educación Enrique Guzmán y Valle nace como una solución innovadora para enfrentar estos retos. Este sistema, diseñado para transformar el proceso de selección, combina el poder del análisis de datos y el aprendizaje automático para ofrecer predicciones precisas sobre el potencial académico de los candidatos. Al integrar datos históricos, rendimiento académico previo y factores demográficos, el sistema permitirá a la universidad identificar a los postulantes con mayor probabilidad de éxito, optimizando así la calidad de los estudiantes admitidos y elevando la excelencia educativa.
+En este informe, exploraremos cómo esta tecnología avanzada no solo mejorará la eficiencia del proceso de admisión, sino que también proporcionará herramientas decisivas para tomar decisiones basadas en datos. Desde la concepción hasta la implementación, descubriremos cómo este innovador sistema puede transformar la manera en que la Universidad Enrique Guzmán y Valle selecciona a sus futuros líderes educativos, asegurando un impacto duradero en la calidad de la educación y el perfil académico de la institución.
+
 **1.1	Propósito**
 
 El propósito de este proyecto es desarrollar un modelo de predicción de postulantes para una universidad nacional de educación. Este modelo tiene como objetivo prever la cantidad y características de los aspirantes que se postularán, mejorando así los procesos de admisión y optimización de recursos de la universidad.
@@ -164,7 +168,22 @@ Este documento está estructurado para proporcionar una visión integral del pro
 
 **2.1	Oportunidad de negocio**
 
+La implementación del Sistema de Predicción de Postulantes para la Universidad Nacional de Educación Enrique Guzmán y Valle representa una significativa oportunidad de negocio, tanto para la universidad como para los proveedores de tecnología y servicios asociados. La universidad se beneficiará al optimizar su proceso de admisión, mejorando la calidad de los estudiantes admitidos y, por ende, la tasa de éxito académico y la reputación institucional. Esto puede llevar a una mayor atracción de futuros postulantes y a un incremento en la demanda de sus programas académicos.
+Desde el punto de vista de proveedores tecnológicos, el desarrollo e implementación de este sistema abre oportunidades para ofrecer soluciones avanzadas en análisis de datos y machine learning. Además, al demostrar la eficacia del sistema en un entorno educativo, se pueden generar casos de éxito que potencialmente se pueden replicar en otras instituciones educativas, ampliando el mercado y la influencia de las tecnologías desarrolladas.
+
 **2.2	Definición del problema**
+
+El proceso actual de admisión en la Universidad Nacional de Educación Enrique Guzmán y Valle enfrenta varios desafíos críticos:
+
+- **Crecimiento en el número de postulantes:** El aumento en el número de aspirantes ha complicado la tarea de seleccionar candidatos con el mayor potencial académico.
+
+- **Evaluación manual:** El proceso manual de evaluación es propenso a errores y es ineficiente, lo que puede llevar a decisiones subóptimas.
+
+- **Criterios estandarizados:** Los criterios actuales no reflejan adecuadamente el potencial real de los postulantes para sobresalir académicamente.
+
+- **Falta de herramientas tecnológicas:** La ausencia de herramientas avanzadas para el análisis y predicción limita la capacidad de la universidad para mejorar el proceso de selección y aumentar la tasa de éxito de los estudiantes admitidos.
+
+El **Sistema de Predicción de Postulantes** aborda estos problemas mediante el uso de técnicas de análisis de datos y machine learning para proporcionar una evaluación más precisa y eficiente de los candidatos, optimizando así el proceso de admisión.
 
 **3\.	Descripción de los interesados y usuarios**
 

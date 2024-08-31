@@ -142,40 +142,44 @@ Versión *{1.0}*
 - Se hará uso del  servidor dedicado de la UNE.
 
 
-    4.2. <span id="_Toc52661351" class="anchor"></span>Factibilidad Económica
+   <br> 4.2. <span id="_Toc52661351" class="anchor"></span>Factibilidad Económica<br>
 
-        El propósito del estudio de viabilidad económica, es determinar los beneficios económicos del proyecto o sistema propuesto para la organización, en contraposición con los costos.
-        Como se mencionó anteriormente en el estudio de factibilidad técnica wvaluar si la institución (departamento de TI) cuenta con las herramientas necesarias para la implantación del sistema y evaluar si la propuesta requiere o no de una inversión inicial en infraestructura informática.
-        Se plantearán los costos del proyecto.
-        Costeo del Proyecto: Consiste en estimar los costos de los recursos Humanos, materiales o consumibles y/o máquinas) directos para completar las actividades del proyecto}.*
+    <div style="text-align: justify;">
 
-        Definir los siguientes costos:
+      4.2.1. Costos Generales
 
-        4.2.1. Costos Generales
+      Se adquieren 5 equipos a un precio unitario de S/3.000,00, resultando en un costo total de S/15.000,00. Además, se compra 1 útil de oficina por S/150,00. En total, los costos generales ascienden a S/15.150,00.
+    <div style="text-align: center;">
+        <img src="img/Costo_general.jpg" alt="Costos Generales" style="width:100%; max-width:600px; height:auto;">
+    </div><br>
 
-                Los costos generales son todos los gastos realizados en accesorios y material de oficina y de uso diario, necesarios para los procesos, tales como, papeles, plumas, cartuchos de impresora, marcadores, computadora etc. Colocar tabla de costos.
+      4.2.2. Costos operativos durante el desarrollo
 
-        4.2.2. Costos operativos durante el desarrollo 
-        
-                Evaluar costos necesarios para la operatividad de las actividades de la empresa durante el periodo en el que se realizara el proyecto. Los costos de operación pueden ser renta de oficina, agua, luz, teléfono, etc.
+      El costo mensual del internet es S/120,00, el de la renta de oficina S/1.200,00 y el seguro de robo S/250,00. Se estima que estos costos operen durante 5 meses, lo que genera un costo total de S/7.850,00.
+    <div style="text-align: center;">
+        <img src="img/Costo_operativos.jpg" alt="Costos Operativos" style="width:100%; max-width:600px; height:auto;">
+    </div><br>
 
-        4.2.3. Costos del ambiente
+      4.2.3. Costos del ambiente
 
-                Evaluar si se cuenta con los requerimientos técnicos para la implantación del software como el dominio, infraestructura de red, acceso a internet, etc.
+      El costo de hosting de pruebas es de S/180,00, con un precio unitario de S/60,00 por 3 meses. El costo del dominio es de S/20,00, con un precio unitario de S/20,00 por 1 mes. El costo total de los servicios de ambiente es de S/200,00.
+    <div style="text-align: center;">
+        <img src="img/Costo_ambiente.jpg" alt="Costos del Ambiente" style="width:100%; max-width:600px; height:auto;">
+    </div><br>
 
-        4.2.4. Costos de personal
+      4.2.4. Costos de personal
 
-                Aquí se incluyen los gastos generados por el recurso humano que se necesita para el desarrollo del sistema únicamente.
+      La tabla muestra los costos de personal para un proyecto, desglosados por puesto. Se listan cinco roles: Jefe de Proyecto, Especialista en IA, Programador, Analista de Datos y Diseñador UX. Para cada rol se indica el precio por hora, la cantidad de horas trabajadas y el costo total. El costo total del personal para el proyecto es de S/30.400,00.
+    <div style="text-align: center;">
+        <img src="img/Costo_personal.jpg" alt="Costos de Personal" style="width:100%; max-width:600px; height:auto;">
+    </div><br>
 
-                No se considerará personal para la operación y funcionamiento del sistema.
+      4.2.5. Costos totales del desarrollo del sistema
 
-                Incluir tabla que muestra los gastos correspondientes al personal.
-
-                Indicar organización y roles. Indicar horario de trabajo del personal.
-
-        4.2.5.  Costos totales del desarrollo del sistema
-
-                {Totalizar costos y realizar resumen de costo final del proyecto y la forma de pago.
+      Los costos totales se dividen en 4 categorías: costos generales (S/15.150,00), costos operativos (S/7.850,00), costos de ambiente (S/200,00) y costos de personal (S/30.400,00). El total de todos estos costos es S/53.600,00.
+    <div style="text-align: center;">
+        <img src="img/Costo_total.jpg" alt="Costos Totales" style="width:100%; max-width:600px; height:auto;">
+    </div>
 
     4.3. <span id="_Toc52661352" class="anchor"></span>Factibilidad Operativa
 

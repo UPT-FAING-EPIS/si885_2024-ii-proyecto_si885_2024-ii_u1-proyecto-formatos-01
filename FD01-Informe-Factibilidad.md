@@ -10,7 +10,7 @@
 
 **Escuela Profesional de Ingeniería de Sistemas**
 
-**Proyecto: *Predicción De PostulantesPara La Universidad Nacional <br> De Educación Enrique Guzmán Y Valle***
+**Proyecto: *Predicción De Postulantes Para La Universidad Nacional <br> De Educación Enrique Guzmán Y Valle***
 
 Curso: *Inteligencia De Negocios*
 
@@ -192,9 +192,10 @@ Versión *{1.0}*
     4.5. <span id="_Toc52661354" class="anchor"></span>Factibilidad Social 
 
   Un dashboard de Power BI restringido al personal encargado es socialmente factible y beneficioso para la universidad. Esto mejorará la eficiencia, la toma de decisiones y la colaboración interna, mientras protege la confidencialidad de la información.
+  
     4.6. <span id="_Toc52661355" class="anchor"></span>Factibilidad Ambiental
 
-  La implementación de un dashboard de Power BI tiene un impacto ambiental reducido y, en muchos aspectos, positivo, como la reducción del uso de papel y la mejora en la eficiencia operativa. Aunque hay un aumento en el consumo de energía y la huella de carbono digital, estos pueden mitigarse mediante el uso de tecnologías y prácticas sostenibles. Adicionar que se usará el servidor de la UNE para aplicar la tecnología.
+  La implementación de un dashboard de Power BI tiene un impacto ambiental reducido y, en muchos aspectos, positivo, como la reducción del uso de papel y la mejora en la eficiencia operativa. Aunque hay un aumento en el consumo de energía y la huella de carbono digital, estos pueden mitigarse mediante el uso de tecnologías y prácticas sostenibles. Adicionar que se usará el servidor de la UNE para aplicar la tecnología. 
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
@@ -250,4 +251,8 @@ Versión *{1.0}*
 
 6. <span id="_Toc52661357" class="anchor"></span>**Conclusiones**
 
-Explicar los resultados del análisis de factibilidad que nos indican si el proyecto es viable y factible.
+Factibilidad Social Alta: Si se implementa correctamente, con las medidas de seguridad adecuadas y una formación apropiada para el personal, la integración de un dashboard de Power BI restringido al personal encargado es socialmente factible y beneficioso para la universidad. Esto mejorará la eficiencia, la toma de decisiones y la colaboración interna, mientras protege la confidencialidad de la información.
+
+Factibilidad Ambiental Alta: La implementación de un dashboard de Power BI tiene un impacto ambiental reducido y, en muchos aspectos, positivo, como la reducción del uso de papel y la mejora en la eficiencia operativa. Aunque hay un aumento en el consumo de energía y la huella de carbono digital, estos pueden mitigarse mediante el uso de tecnologías y prácticas sostenibles.
+
+El proyecto tiene una alta factibilidad técnica. El éxito dependerá de la coordinación eficaz del equipo de desarrollo, la gestión de los recursos de hardware, y la implementación cuidadosa de las funcionalidades requeridas.

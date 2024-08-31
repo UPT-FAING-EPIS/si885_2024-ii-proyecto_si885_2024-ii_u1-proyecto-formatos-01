@@ -187,7 +187,7 @@ Versión *{1.0}*
 
     4.4. <span id="_Toc52661353" class="anchor"></span>Factibilidad Legal
 
-        Determinar si existe conflicto del proyecto con restricciones legales como leyes y regulaciones del país o locales relacionadas con seguridad, protección de datos, conducta de negocio, empleo y adquisiciones.
+      Este proyecto de predicción de postulantes para la Universidad Nacional de Educación Enrique Guzmán y Valle se fundamenta en el cumplimiento de la Ley de Protección de Datos Personales (Ley N° 29733) y su reglamento (Decreto Supremo N° 003-2013-JUS), asegurando que la recolección y manejo de datos de los postulantes se realice de manera ética y legal. Es esencial obtener los permisos necesarios de las autoridades competentes y garantizar la transparencia en el proceso, cumpliendo también con la Ley de Transparencia y Acceso a la Información Pública.
 
     4.5. <span id="_Toc52661354" class="anchor"></span>Factibilidad Social 
 

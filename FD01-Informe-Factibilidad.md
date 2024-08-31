@@ -10,21 +10,22 @@
 
 **Escuela Profesional de Ingeniería de Sistemas**
 
-**Proyecto *{Nombre de Proyecto}***
+**Proyecto: *Predicción De PostulantesPara La Universidad Nacional <br> De Educación Enrique Guzmán Y Valle***
 
-Curso: *{Nombre de Asignatura}*
+Curso: *Inteligencia De Negocios*
 
-Docente: *{Nombre de Docente}*
+Docente: *Ing. Cuadros Quiroga, Patrick Jose*
 
 Integrantes:
 
-Melendez Huarachi, Gabriel Fari			(2021070311)
+Melendez Huarachi, Gabriel Fari			(2021070311)<br>
+Lopez Catunta, Brayar Christian         (2020068946)
 
 ***{Apellidos y nombres del estudiante (código universitario)}***
 
 **Tacna – Perú**
 
-***{Año}***
+***2024***
 
 **  
 **
@@ -95,7 +96,21 @@ Versión *{1.0}*
 
 2. <span id="_Toc52661347" class="anchor"></span>**Riesgos**
 
-    Señale los riesgos que pudieran afectar el éxito del proyecto.}*
+    <div style="text-align: justify;">
+
+    - **Errores en los datos**: La calidad de la información y de los datos históricos utilizados determina en gran medida la precisión de las predicciones. Si los datos son incompletos o inexactos, las predicciones pueden ser erróneas o poco confiables.
+
+    - **Cambios en el entorno académico y factores externos**: Los cambios en la legislación educativa, las políticas de admisión o las circunstancias económicas pueden afectar el número de solicitantes. Estos factores son difíciles de predecir y tienen el potencial de cambiar drásticamente las tendencias observadas en años anteriores.
+
+    - **Resistencia a la Alteración y aceptación de resultados**: El personal académico y administrativo puede oponerse a la implementación de un sistema de predicción. Puede haber errores si no confía en los resultados, lo que podría llevar a una falta de aceptación y aplicación del sistema.
+
+    - **Variabilidad en la conducta de los postulantes y cambios en sus preferencias**: Las preferencias de los candidatos pueden cambiar con el tiempo debido a las tendencias sociales, las nuevas carreras o los programas que ofrecen otras instituciones. Esto puede hacer que las predicciones basadas en datos históricos sean menos pertinentes.
+
+    - **Delimitaciones estratégicas y habilidades analíticas**: La efectividad de los modelos predictivos puede verse afectada por la falta de herramientas adecuadas o de personal capacitado para realizar análisis complejos. Esto puede llevar a una sobreestimación o una subestimación del número de candidatos.
+
+    - **Efecto de la competencia**: La cantidad de postulantes puede verse afectada por la aparición de nuevas universidades o programas académicos en otras instituciones. La competencia es un factor clave que no siempre se puede predecir.
+
+    </div>
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 

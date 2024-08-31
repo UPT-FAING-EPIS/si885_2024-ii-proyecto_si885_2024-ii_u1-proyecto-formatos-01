@@ -18,7 +18,7 @@ Integrantes:
 ***Lopez Catunta , Brayar Christian		(2020068946)***  
 ***Melendez Huarachi, Gabriel Fari			(2021070311)***  
 ***Cuadros Garcia, Mirian				(2021071083)***  
-***Hurtado Ortiz, Leandro				(2015052384)***
+***Hurtado Ortiz, Leandro				(2015052384)***  
 ***Briceño Diaz, Jorge Luis				(2017059611)***
 
 **Tacna – Perú**  
@@ -27,7 +27,7 @@ Integrantes:
 | CONTROL DE VERSIONES |  |  |  |  |  |
 | :---: | :---: | :---: | :---: | :---: | ----- |
 | Versión | Hecha por | Revisada por | Aprobada por | Fecha | Motivo |
-| 1.0 | MPV | ELV | ARV | 10/10/2020 | Versión Original |
+| 1.0 | MCG | BLC | LHO | 31/08/2024 | Versión Original |
 
 # 
 
@@ -51,7 +51,11 @@ Integrantes:
 
 # 
 
-# **Sistema *{Nombre del Sistema}***
+# **Sistema *de Predicción De Postulantes*** 
+
+# ***Para La Universidad Nacional De Educación Enrique Guzmán Y Valle***
+
+# 
 
 # **Documento de Visión**
 
@@ -300,6 +304,9 @@ Capacitación y Documentación
 * Cumplimiento de Estándares de Calidad: Seguir normas de desarrollo de software de calidad, adaptadas a la realidad peruana, para garantizar un producto confiable y eficaz.
 
 **CONCLUSIONES**
+
+* El sistema permitirá a la universidad prever la cantidad y características de los postulantes, mejorando la planificación y asignación de recursos.  
+* El dashboard interactivo facilitará a los administradores el análisis de tendencias y la toma de decisiones basadas en datos actualizados y visualizados en tiempo real.
 
 **RECOMENDACIONES**
 

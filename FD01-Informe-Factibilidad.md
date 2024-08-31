@@ -19,8 +19,10 @@ Docente: *Ing. Cuadros Quiroga, Patrick Jose*
 Integrantes:
 
 Melendez Huarachi, Gabriel Fari			(2021070311)<br>
-Lopez Catunta, Brayar Christian         (2020068946)
-Briceño Diaz, Jorge Luis               (2017059611)
+Lopez Catunta, Brayar Christian         (2020068946)<br>
+Briceño Diaz, Jorge Luis               (2017059611)<br>
+Cuadros Garcia, Mirian				(2021071083)<br>
+Hurtado Ortiz, Leandro				(2015052384)<br>
 
 
 ***{Apellidos y nombres del estudiante (código universitario)}***

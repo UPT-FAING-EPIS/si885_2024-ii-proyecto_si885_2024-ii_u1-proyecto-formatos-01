@@ -20,6 +20,8 @@ Integrantes:
 
 Melendez Huarachi, Gabriel Fari			(2021070311)<br>
 Lopez Catunta, Brayar Christian         (2020068946)
+Briceño Diaz, Jorge Luis               (2017059611)
+
 
 ***{Apellidos y nombres del estudiante (código universitario)}***
 

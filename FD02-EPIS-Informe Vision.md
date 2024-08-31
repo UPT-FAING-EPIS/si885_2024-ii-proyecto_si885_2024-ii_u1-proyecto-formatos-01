@@ -19,6 +19,7 @@ Integrantes:
 ***Melendez Huarachi, Gabriel Fari			(2021070311)***  
 ***Cuadros Garcia, Mirian				(2021071083)***  
 ***Hurtado Ortiz, Leandro				(2015052384)***
+***Briceño Diaz, Jorge Luis				(2017059611)***
 
 **Tacna – Perú**  
 ***2024***

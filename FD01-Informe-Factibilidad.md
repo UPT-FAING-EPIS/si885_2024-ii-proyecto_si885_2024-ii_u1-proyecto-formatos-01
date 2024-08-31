@@ -184,6 +184,9 @@ Versión *{1.0}*
     4.3. <span id="_Toc52661352" class="anchor"></span>Factibilidad Operativa
 
         Describir los beneficios del producto y si se tiene la capacidad por parte del cliente para mantener el sistema funcionando y garantizar el buen funcionamiento y su impacto en los usuarios. Lista de interesados.
+  <div style="text-align: center;">
+        <img src="img/factibilidad_operativa.png" alt="Factibilidad Operativa" style="width:100%; max-width:600px; height:auto;">
+    </div>
 
     4.4. <span id="_Toc52661353" class="anchor"></span>Factibilidad Legal
 

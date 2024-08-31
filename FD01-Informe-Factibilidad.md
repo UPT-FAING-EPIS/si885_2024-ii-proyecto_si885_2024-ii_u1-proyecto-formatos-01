@@ -18,6 +18,8 @@ Docente: *{Nombre de Docente}*
 
 Integrantes:
 
+Melendez Huarachi, Gabriel Fari			(2021070311)
+
 ***{Apellidos y nombres del estudiante (código universitario)}***
 
 **Tacna – Perú**
@@ -116,11 +118,14 @@ Versión *{1.0}*
 
     4.1. <span id="_Toc52661350" class="anchor"></span>Factibilidad Técnica
 
-        El estudio de viabilidad técnica se enfoca en obtener un entendimiento de los recursos tecnológicos disponibles actualmente y su aplicabilidad a las necesidades que se espera tenga el proyecto. En el caso de tecnología informática esto implica una evaluación del hardware y software y como este puede cubrir las necesidades del sistema propuesto.
+- Tenemos cinco computadoras portátiles con Windows como sistema operativo.
+-Contamos con el software necesario para el desarrollo, que incluye Visual Studio Code, XAMMP.
+- Disponemos de unas hojas CSV.
+- Un equipo de  cinco programadores está trabajando en el proyecto.
+- La plataforma será compatible con una amplia gama de dispositivos.
+- También hemos incorporado una función de descarga de gráficos y predicciones.
+- Se hará uso del  servidor dedicado de la UNE.
 
-        Realizar una evaluación de la tecnología actual existente y la posibilidad de utilizarla en el desarrollo e implantación del sistema.*
-
-        Describir acerca del hardware (equipos, servidor), software (aplicaciones, navegadores, sistemas operativos, dominio, internet, infraestructura de red física, etc.
 
     4.2. <span id="_Toc52661351" class="anchor"></span>Factibilidad Económica
 
@@ -167,11 +172,10 @@ Versión *{1.0}*
 
     4.5. <span id="_Toc52661354" class="anchor"></span>Factibilidad Social 
 
-        Evaluar influencias y asuntos de índole social y cultural como el clima político, códigos de conducta y ética*
-
+  Un dashboard de Power BI restringido al personal encargado es socialmente factible y beneficioso para la universidad. Esto mejorará la eficiencia, la toma de decisiones y la colaboración interna, mientras protege la confidencialidad de la información.
     4.6. <span id="_Toc52661355" class="anchor"></span>Factibilidad Ambiental
 
-        Evaluar influencias y asuntos de índole ambiental como el impacto y repercusión en el medio ambiente.
+  La implementación de un dashboard de Power BI tiene un impacto ambiental reducido y, en muchos aspectos, positivo, como la reducción del uso de papel y la mejora en la eficiencia operativa. Aunque hay un aumento en el consumo de energía y la huella de carbono digital, estos pueden mitigarse mediante el uso de tecnologías y prácticas sostenibles. Adicionar que se usará el servidor de la UNE para aplicar la tecnología.
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 

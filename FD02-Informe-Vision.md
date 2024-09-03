@@ -313,7 +313,8 @@ e) Estandaraes de calidad y seguridad	](#_toc394513800)42
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-RECOMENDACIONES <span id="recomendaciones" class="anchor"></span>
+## RECOMENDACIONES <span id="recomendaciones" class="anchor"></span>
+
 -Capacitación continua del personal técnico: Asegúrate de que el equipo de soporte técnico reciba formación continua en el uso y mantenimiento del nuevo sistema. Esto ayudará a maximizar el rendimiento del sistema y a minimizar los tiempos de inactividad.
 
 -Realizar pruebas piloto antes del despliegue completo: Es recomendable llevar a cabo un despliegue piloto en uno o dos laboratorios antes de implementar el sistema en toda la universidad. Esto permitirá identificar y resolver cualquier problema antes de la implementación a gran escala.
@@ -334,7 +335,6 @@ RECOMENDACIONES <span id="recomendaciones" class="anchor"></span>
 
 -Involucrar a los interesados en el proceso: Mantén una comunicación constante con todos los interesados del proyecto, asegurándote de que estén informados sobre el progreso y cualquier cambio significativo. Su participación activa puede facilitar la adopción del sistema y contribuir al éxito general del proyecto.
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
 <span id="_Toc52661357" class="anchor"></span>**BIBLIOGRAFIA**
 

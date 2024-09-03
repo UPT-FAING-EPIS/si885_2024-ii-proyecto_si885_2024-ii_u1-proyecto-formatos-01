@@ -47,7 +47,7 @@ Huallpa Maron, Jesus Antonio (2021071085)
 
 
 
-**Sistema *Herramienta de Seguimiento y Evaluación del Desempeño de Red y Hardware en Computadoras UPT***
+**Sistema *"Herramienta de Seguimiento y Evaluación del Desempeño de Red y Hardware en Computadoras UPT"***
 
 **Documento de Visión**
 

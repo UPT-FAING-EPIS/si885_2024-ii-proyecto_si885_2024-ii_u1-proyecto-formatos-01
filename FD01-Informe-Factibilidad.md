@@ -43,7 +43,7 @@ Versión *{1.0}*
 |CONTROL DE VERSIONES||||||
 | :-: | :- | :- | :- | :- | :- |
 |Versión|Hecha por|Revisada por|Aprobada por|Fecha|Motivo|
-|1\.0|MPV|ELV|ARV|31/08/2024|Versión Original|
+|1\.0|MCG|BLC|LHO|31/08/2024|Versión Original|
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
@@ -150,35 +150,35 @@ Versión *{1.0}*
 
       4.2.1. Costos Generales
 
-      Se adquieren 5 equipos a un precio unitario de S/3.000,00, resultando en un costo total de S/15.000,00. Además, se compra 1 útil de oficina por S/150,00. En total, los costos generales ascienden a S/15.150,00.
+      El primer artículo es un televisor LED de 65 pulgadas, con un precio unitario de S/ 1,700.00 y una cantidad de 2 unidades, lo que da un costo total de S/ 3,400.00. El segundo artículo es un rack para TV de 65 pulgadas, con un precio unitario de S/ 100.00 y una cantidad de 2 unidades, lo que resulta en un costo total de S/ 200.00. El total general de los costos es S/ 3,600.00.
     <div style="text-align: center;">
         <img src="img/Costo_general.jpg" alt="Costos Generales" style="width:100%; max-width:600px; height:auto;">
     </div><br>
 
       4.2.2. Costos operativos durante el desarrollo
 
-      El costo mensual del internet es S/120,00, el de la renta de oficina S/1.200,00 y el seguro de robo S/250,00. Se estima que estos costos operen durante 5 meses, lo que genera un costo total de S/7.850,00.
+      La primera es el alquiler de equipo, con 2 unidades a un costo mensual de S/ 300.00 por un mes, resultando en un costo total de S/ 600.00. La segunda partida es para la línea móvil, con 3 unidades a un costo mensual de S/ 75.00 por un mes, totalizando S/ 225.00. El costo operativo total es de S/ 825.00.
     <div style="text-align: center;">
         <img src="img/Costo_operativos.jpg" alt="Costos Operativos" style="width:100%; max-width:600px; height:auto;">
     </div><br>
 
       4.2.3. Costos del ambiente
 
-      El costo de hosting de pruebas es de S/180,00, con un precio unitario de S/60,00 por 3 meses. El costo del dominio es de S/20,00, con un precio unitario de S/20,00 por 1 mes. El costo total de los servicios de ambiente es de S/200,00.
+      El hosting de pruebas por un mes, con un precio unitario de S/ 60.00. El costo total para este servicio es de S/ 60.00.
     <div style="text-align: center;">
         <img src="img/Costo_ambiente.jpg" alt="Costos del Ambiente" style="width:100%; max-width:600px; height:auto;">
     </div><br>
 
       4.2.4. Costos de personal
 
-      La tabla muestra los costos de personal para un proyecto, desglosados por puesto. Se listan cinco roles: Jefe de Proyecto, Especialista en IA, Programador, Analista de Datos y Diseñador UX. Para cada rol se indica el precio por hora, la cantidad de horas trabajadas y el costo total. El costo total del personal para el proyecto es de S/30.400,00.
+      El cuadro presenta los costos de personal para tres roles en un proyecto: un Jefe de Proyecto, un Programador de Machine Learning, y un Analista de Datos. El Jefe de Proyecto tiene una tarifa de S/ 20,00 por hora y trabaja 160 horas, resultando en un costo de S/ 3.200,00. Tanto el Programador de Machine Learning como el Analista de Datos tienen una tarifa de S/ 15,00 por hora y trabajan 180 horas cada uno, generando un costo de S/ 2.700,00 para cada uno. El costo total del personal es S/ 8.600,00.
     <div style="text-align: center;">
         <img src="img/Costo_personal.jpg" alt="Costos de Personal" style="width:100%; max-width:600px; height:auto;">
     </div><br>
 
       4.2.5. Costos totales del desarrollo del sistema
 
-      Los costos totales se dividen en 4 categorías: costos generales (S/15.150,00), costos operativos (S/7.850,00), costos de ambiente (S/200,00) y costos de personal (S/30.400,00). El total de todos estos costos es S/53.600,00.
+      Los costos totales de un proyecto, distribuidos en cuatro categorías: Costos Generales, Costos Operativos, Costos de Ambiente, y Costos de Personal. Los Costos Generales ascienden a S/ 3.600,00, los Costos Operativos a S/ 825,00, los Costos de Ambiente a S/ 60,00, y los Costos de Personal a S/ 8.600,00. El costo total del proyecto suma S/ 13.085,00.
     <div style="text-align: center;">
         <img src="img/Costo_total.jpg" alt="Costos Totales" style="width:100%; max-width:600px; height:auto;">
     </div>

@@ -136,7 +136,7 @@ Versión *{1.0}*
     4.1. <span id="_Toc52661350" class="anchor"></span>Factibilidad Técnica
 
 - Tenemos cinco computadoras portátiles con Windows como sistema operativo.
--Contamos con el software necesario para el desarrollo, que incluye Visual Studio Code, XAMMP.
+- Contamos con el software necesario para el desarrollo, que incluye Visual Studio Code, XAMMP.
 - Disponemos de unas hojas CSV.
 - Un equipo de  cinco programadores está trabajando en el proyecto.
 - La plataforma será compatible con una amplia gama de dispositivos.

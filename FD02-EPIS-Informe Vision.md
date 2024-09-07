@@ -189,46 +189,78 @@ El **Sistema de Predicción de Postulantes** aborda estos problemas mediante el 
 
 **3.1	Resumen de los interesados**
 
-**3.2	Resumen de los usuarios**
+- **Administradores Universitarios**: 
+  - **Responsabilidades**: Toma de decisiones en el proceso de admisión y evaluación de postulantes.
+  - **Intereses**: Herramientas que les permitan tomar decisiones informadas y optimizar el proceso de selección.
 
-**3.3	Entorno de usuario**
+- **Personal de TI**: 
+  - **Responsabilidades**: Implementación y mantenimiento del sistema.
+  - **Necesidades**: Una solución que sea fácil de integrar con las plataformas existentes y que requiera un mantenimiento mínimo.
 
-**3.4	Perfiles de los interesados**
+**3.2 Resumen de los usuarios**
 
-**3.5	Perfiles de los Usuarios**
+- **Administradores del Sistema**: Utilizarán el dashboard para consultar y analizar datos de postulantes. Necesitan una interfaz intuitiva y herramientas para visualizar las predicciones y datos relevantes.
 
-**3.6	Necesidades de los interesados y usuarios**
+**3.3 Entorno de usuario**
 
-**4\.	Vista General del Producto**
+- **Entorno Físico**: El sistema será utilizado principalmente en entornos de oficina dentro de la universidad, accesible desde estaciones de trabajo con una red de comunicación estable.
+- **Entorno Tecnológico**: Se operará sobre servidores con Linux y estaciones de trabajo con Windows o Linux. El dashboard estará disponible a través de navegadores web y se integrará con la infraestructura de red existente de la universidad.
 
-**4.1	Perspectiva del producto**
+**3.4 Perfiles de los interesados**
 
-El producto final es un sistema de predicción de postulantes para una universidad, acompañado de un dashboard interactivo. Este sistema permitirá prever el número de aspirantes y sus características, facilitando la toma de decisiones en el proceso de admisión.
+- **Administrador Universitario**:
+  - **Funciones**: Toma de decisiones estratégicas y operativas, supervisión del proceso de admisión.
+  - **Intereses**: Mejorar la calidad del proceso de admisión, optimizar la selección de candidatos.
+  - **Expectativas**: Herramientas que proporcionen datos precisos y fáciles de interpretar.
 
-**4.2	Resumen de capacidades**
+- **Personal de TI**:
+  - **Funciones**: Implementación y mantenimiento del sistema.
+  - **Intereses**: Integración sencilla, mantenimiento fácil, y soporte técnico adecuado.
+  - **Expectativas**: Documentación clara y soporte continuo.
 
-* Predicción de postulantes: Estimación del número de postulantes por carrera.  
-* Análisis demográfico: Visualización de la distribución geográfica y perfiles de los postulantes.  
-* Visualización de tendencias: Identificación de patrones en la demanda de admisiones.  
-* Generación de reportes: Exportación de datos en formatos como PDF y Excel.  
-* Alertas: Notificaciones sobre cambios significativos en las predicciones.
+**3.5 Perfiles de los usuarios**
 
-**4.3	Suposiciones y dependencias**
+- **Administrador del Sistema**:
+  - **Funciones**: Gestión de la plataforma, generación de informes.
+  - **Intereses**: Facilidad de uso y acceso a datos completos.
+  - **Expectativas**: Interfaz de administración clara y funcionalidades para gestionar datos de postulantes.
 
-Suposiciones:
+**3.6 Necesidades de los interesados y usuarios**
 
-* Se asume que se dispondrá de datos históricos precisos y completos de postulantes anteriores.  
-* Se asume que los algoritmos de machine learning serán capaces de adaptarse a cambios en las tendencias de postulación.  
-* Se asume que los usuarios tendrán acceso regular a Internet para interactuar con el dashboard.  
-  Dependencias:
+- **Administradores Universitarios**: Necesitan herramientas que faciliten la toma de decisiones informadas y que proporcionen una visión clara de las predicciones y análisis de los postulantes.
+- **Personal de TI**: Requieren una integración sencilla con sistemas existentes, documentación técnica adecuada y soporte para resolver problemas técnicos.
 
-* Dependencia en la calidad y disponibilidad de los datos: La precisión de las predicciones depende en gran medida de la calidad de los datos proporcionados.  
-* Dependencia de la infraestructura tecnológica: El funcionamiento óptimo del sistema requiere servidores y bases de datos con capacidades suficientes para manejar grandes volúmenes de datos.  
-* Dependencia de la colaboración de las áreas de admisión y tecnología de la universidad para la correcta implementación y mantenimiento del sistema.
+**4. Vista General del Producto**
 
-**4.4	Costos y precios**
+**4.1 Perspectiva del producto**
 
-**4.5	Licenciamiento e instalación**
+El producto final es un dashboard interactivo dirigido a los administradores de la universidad. Este dashboard permitirá prever el número de aspirantes y sus características, facilitando la toma de decisiones en el proceso de admisión.
+
+**4.2 Resumen de capacidades**
+
+- **Predicción de postulantes**: Estimación del número de postulantes por carrera.
+- **Análisis demográfico**: Visualización de la distribución geográfica y perfiles de los postulantes.
+- **Visualización de tendencias**: Identificación de patrones en la demanda de admisiones.
+- **Generación de reportes**: Exportación de datos en formatos como PDF y Excel.
+- **Alertas**: Notificaciones sobre cambios significativos en las predicciones.
+
+**4.3 Suposiciones y dependencias**
+
+- **Suposiciones**:
+  - Se asume que se dispondrá de datos históricos precisos y completos de postulantes anteriores.
+  - Se asume que los algoritmos de machine learning serán capaces de adaptarse a cambios en las tendencias de postulación.
+  - Se asume que los usuarios tendrán acceso regular a Internet para interactuar con el dashboard.
+
+- **Dependencias**:
+  - Dependencia en la calidad y disponibilidad de los datos: La precisión de las predicciones depende en gran medida de la calidad de los datos proporcionados.
+  - Dependencia de la infraestructura tecnológica: El funcionamiento óptimo del sistema requiere servidores y bases de datos con capacidades suficientes para manejar grandes volúmenes de datos.
+  - Dependencia de la colaboración de las áreas de admisión y tecnología de la universidad para la correcta implementación y mantenimiento del sistema.
+
+**4.4 Costos y precios**
+
+Los detalles sobre los costos y precios asociados con el desarrollo e implementación del Sistema de Predicción de Postulantes se encuentran en el documento separado titulado FD01-Informe de Factibilidad. Este informe proporciona un análisis detallado de los costos involucrados en cada fase del proyecto.
+
+**4.5 Licenciamiento e instalación**
 
 El producto se licenciará bajo un modelo de suscripción para la universidad. La instalación se realizará en los servidores de la universidad o en la nube, según las necesidades.
 

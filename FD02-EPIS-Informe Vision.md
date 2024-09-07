@@ -157,6 +157,10 @@ El alcance de este proyecto abarca el desarrollo, implementación y despliegue d
 **1.3	Definiciones, Siglas y Abreviaturas**
 
 * UI (User Interface): Interfaz de Usuario, el espacio donde interactúan el usuario y el sistema.
+* ML (Machine Learning): Aprendizaje Automático, rama de la inteligencia artificial que permite que los sistemas aprendan y mejoren automáticamente a partir de la experiencia sin ser programados explícitamente para ello.
+* API (Application Programming Interface): Interfaz de Programación de Aplicaciones, un conjunto de reglas y herramientas que permite que diferentes sistemas de software se comuniquen entre sí.
+* DB (Database): Base de Datos, sistema estructurado para almacenar, gestionar y recuperar información.
+
 
 **1.4	Referencias**
 

@@ -321,11 +321,15 @@ Versión *{1.0}*
     </div><br>
 
             5.1.2.3 Tasa Interna de Retorno (TIR)*
-                Es la tasa porcentual que indica la rentabilidad promedio anual que genera el capital invertido en el proyecto. Si la TIR es mayor que el costo de oportunidad se acepta el proyecto, si la TIR es igual al costo de oportunidad es indiferente aceptar o rechazar el proyecto, si la TIR es menor que el costo de oportunidad se rechaza el proyecto
+                       La TIR es la tasa de descuento a la cual el VAN es igual a cero. Es decir, mide el rendimiento esperado del proyecto,
+                       la TIR es 5.9%, lo que significa que el proyecto tiene una tasa de retorno positiva. Si tu tasa de descuento o costo 
+                       de capital es menor a este valor, el proyecto es viable.
+<br>
+    <div style="text-align: center;">
+        <img src="img/TIR.jpg" alt="Tasa Interna Retorno" style="width:100%; max-width:600px; height:auto;">
+    </div><br>
 
-                Costo de oportunidad de capital (COK) es la tasa de interés que podría haber obtenido con el dinero invertido en el proyecto
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
 6. <span id="_Toc52661357" class="anchor"></span>**Conclusiones**
 

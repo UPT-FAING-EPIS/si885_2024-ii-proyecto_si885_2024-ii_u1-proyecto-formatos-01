@@ -228,7 +228,9 @@ Versión *{1.0}*
 
       4.2.5. Costos totales del desarrollo del sistema
 
-      Los costos totales de un proyecto, distribuidos en cuatro categorías: Costos Generales, Costos Operativos, Costos de Ambiente, y Costos de Personal. Los Costos Generales ascienden a S/ 3.600,00, los Costos Operativos a S/ 825,00, los Costos de Ambiente a S/ 60,00, y los Costos de Personal a S/ 8.600,00. El costo total del proyecto suma S/ 13.085,00.
+                 Los costos totales de un proyecto, distribuidos en cuatro categorías: Costos Generales, Costos Operativos, Costos de Ambiente,
+                 y Costos de Personal. Los Costos Generales ascienden a S/ 900,00, los Costos Operativos a S/ 825,00, los Costos de Ambiente
+                 a S/ 120,00, y los Costos de Personal a S/ 11.200,00. El costo total del proyecto suma S/ 13.045,00.
     <div style="text-align: center;">
         <img src="img/Costo_total.jpg" alt="Costos Totales" style="width:100%; max-width:600px; height:auto;">
     </div>

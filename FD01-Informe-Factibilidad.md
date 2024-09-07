@@ -86,7 +86,13 @@ Versión *{1.0}*
 
     1.3. Descripción
 
-        En que consiste el proyecto/importancia del mismo, contexto en que se va desenvolver
+    <p style="text-align: justify;">
+    El "Sistema de Predicción de Postulantes para la Universidad Nacional de Educación Enrique Guzmán y Valle" es una solución tecnológica que busca mejorar el proceso de admisión de la universidad. Este sistema, desarrollado en un período de 30 días, emplea técnicas avanzadas de análisis de datos y aprendizaje automático para predecir el desempeño y las probabilidades de éxito de los postulantes en función de diversas variables, como el rendimiento académico previo, resultados de pruebas y datos demográficos.
+    </p>
+    
+    <p style="text-align: justify;">
+    El objetivo es proporcionar a la universidad una herramienta que facilite la toma de decisiones informadas en el proceso de selección, optimizando el perfil de los estudiantes admitidos y aumentando las tasas de éxito académico. Además, el sistema será diseñado para integrarse de manera eficiente con las plataformas existentes de la universidad, asegurando una implementación sin contratiempos y un uso intuitivo por parte de los administradores y evaluadores.
+    </p>
 
     1.4. Objetivos
 

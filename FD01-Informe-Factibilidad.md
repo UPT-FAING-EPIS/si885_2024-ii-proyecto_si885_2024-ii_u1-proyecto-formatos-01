@@ -202,7 +202,9 @@ Versión *{1.0}*
 
       4.2.2. Costos operativos durante el desarrollo
 
-      La primera es el alquiler de equipo, con 2 unidades a un costo mensual de S/ 300.00 por un mes, resultando en un costo total de S/ 600.00. La segunda partida es para la línea móvil, con 3 unidades a un costo mensual de S/ 75.00 por un mes, totalizando S/ 225.00. El costo operativo total es de S/ 825.00.
+               La primera es el alquiler de equipo, con 2 unidades a un costo mensual de S/ 300.00 por un mes, resultando en un costo total
+               de S/ 600.00. La segunda partida es para la línea móvil, con 3 unidades a un costo mensual de S/ 75.00 por un mes, totalizando
+               S/ 225.00. El costo operativo total es de S/ 825.00.
     <div style="text-align: center;">
         <img src="img/Costo_operativos.jpg" alt="Costos Operativos" style="width:100%; max-width:600px; height:auto;">
     </div><br>

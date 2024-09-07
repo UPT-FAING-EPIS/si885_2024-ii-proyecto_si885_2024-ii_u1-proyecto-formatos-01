@@ -142,11 +142,51 @@ Versión *{1.0}*
 
     3.1. Planteamiento del problema
 
-            Describa antecedentes y situación actual, explicando la problemática y/o necesidad que será resuelta con el proyecto propuesto.
+           En la Universidad Nacional de Educación Enrique Guzmán y Valle, el proceso de admisión de postulantes ha sido un desafío
+           creciente debido al incremento en el número de aspirantes y la diversidad de sus perfiles académicos. Actualmente, la
+           selección de estudiantes se basa en criterios estandarizados que no siempre reflejan el potencial real de los postulantes
+           para sobresalir en su educación superior. Esto ha generado una necesidad urgente de mejorar la precisión y eficacia en la
+           identificación de candidatos que tienen mayores probabilidades de éxito académico, con el fin de optimizar los recursos
+           educativos y aumentar la tasa de retención estudiantil.
+
+           Además, el proceso manual de evaluación de postulantes es tiempo-consuming y susceptible a errores humanos, lo que puede
+           llevar a decisiones de admisión subóptimas. La falta de herramientas tecnológicas avanzadas que analicen de manera integral
+           y precisa los datos de los aspirantes ha limitado la capacidad de la universidad para mejorar su proceso de selección. Este
+           proyecto surge como respuesta a la necesidad de implementar un sistema que utilice técnicas de análisis de datos y predicción
+           para optimizar la selección de postulantes, garantizando así que los estudiantes admitidos tengan un perfil adecuado para
+           enfrentar los desafíos académicos de la universidad.
+
 
     3.2. Consideraciones de hardware y software
 
-            Hardware y software posibles para la implementación, se analizara lo que existe y es alcanzable, se evaluara que tecnología se puede > utilizar en el proyecto.
+           Para la implementación del "Sistema de Predicción de Postulantes", se evaluarán las siguientes consideraciones de hardware
+           y software:
+   
+            ● Hardware:
+              - Servidores: Se necesitará un servidor con capacidad de procesamiento adecuada para manejar grandes volúmenes de datos,
+                con una CPU de alto rendimiento (mínimo 8 núcleos), al menos 32 GB de RAM y un almacenamiento SSD rápido (mínimo 1 TB)
+                para asegurar la eficiencia en el procesamiento de datos y la ejecución del modelo predictivo. 
+              - Estaciones de Trabajo: Los administradores y operadores del sistema requerirán estaciones de trabajo con especificaciones
+                moderadas, incluyendo al menos 8 GB de RAM, procesadores de al menos 4 núcleos, y una conexión de red estable para
+                interactuar con el sistema de manera eficiente.
+              - Redes: Es esencial contar con una infraestructura de red robusta que soporte la comunicación rápida y segura entre el
+                servidor y las estaciones de trabajo, con especial atención a la seguridad de los datos transferidos.
+   
+            ● Software:
+              - Sistema Operativo: El servidor utilizará un sistema operativo Linux (como Ubuntu Server), que ofrece estabilidad y es
+                ampliamente compatible con herramientas de análisis de datos y machine learning.
+              - Base de Datos: Se implementará una base de datos relacional como MySQL o PostgreSQL para el almacenamiento de datos de
+                postulantes y resultados de predicción, asegurando integridad y acceso rápido a la información.
+              - Librerías y Frameworks de Machine Learning: Se utilizarán librerías como Scikit-learn o TensorFlow, que son ampliamente
+                utilizadas en el desarrollo de modelos predictivos y ofrecen una integración sencilla con los lenguajes de programación.
+              - Lenguajes de Programación: Python será el lenguaje principal para el desarrollo del sistema, debido a su robustez en el
+                manejo de datos y su amplia gama de bibliotecas para machine learning y análisis de datos.
+              - Interfaz de Usuario: Para la interfaz de usuario, se utilizarán tecnologías web como HTML5, CSS3 y JavaScript, apoyadas
+                por frameworks como Django o Flask en el backend, para crear una plataforma accesible y fácil de usar para los
+                administradores de la universidad.
+              - Seguridad: Se implementarán medidas de seguridad como la encriptación de datos sensibles, autenticación de usuarios, y
+                protección contra amenazas cibernéticas para garantizar la integridad y confidencialidad de la información de los postulantes.
+
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 

@@ -139,6 +139,9 @@ El alcance de este proyecto abarca el desarrollo, implementación y despliegue d
 
 **1.4	Referencias**
 
+* FD01. (2024). Informe de Factibilidad. Documento interno de la Universidad Nacional de Educación Enrique Guzmán y Valle.
+Descripción: Documento que presenta un análisis detallado de la viabilidad del proyecto, incluyendo costos, beneficios y evaluación de riesgos.
+
 **1.5	Visión General**
 
 Este documento está estructurado para proporcionar una visión integral del proyecto, comenzando con la definición del propósito y alcance, seguido por una descripción detallada de los interesados y usuarios. A continuación, se presenta una vista general del producto, incluyendo sus características principales, restricciones y criterios de calidad. Finalmente, se abordan aspectos relacionados con la precedencia, prioridades, y otros requerimientos específicos del producto, concluyendo con recomendaciones y referencias adicionales.

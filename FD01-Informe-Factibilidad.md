@@ -211,7 +211,7 @@ Versión *{1.0}*
 
       4.2.3. Costos del ambiente
 
-      El hosting de pruebas por un mes, con un precio unitario de S/ 60.00. El costo total para este servicio es de S/ 60.00.
+               El hosting de pruebas por un mes, con un precio unitario de S/ 120.00. El costo total para este servicio es de S/ 120.00.
     <div style="text-align: center;">
         <img src="img/Costo_ambiente.jpg" alt="Costos del Ambiente" style="width:100%; max-width:600px; height:auto;">
     </div><br>

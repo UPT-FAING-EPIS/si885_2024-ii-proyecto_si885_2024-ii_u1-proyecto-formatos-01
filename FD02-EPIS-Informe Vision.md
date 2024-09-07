@@ -244,7 +244,7 @@ Los detalles sobre los costos y precios asociados con el desarrollo e implementa
 
 **4.5 Licenciamiento e instalación**
 
-El producto se licenciará bajo un modelo de suscripción para la universidad. La instalación se realizará en los servidores de la universidad o en la nube, según las necesidades.
+El producto se usará mediante Power BI. La instalación y configuración del dashboard se realizará en los servidores de la universidad o en la nube, según las necesidades y preferencias de la institución.
 
 **5\.	Características del producto**
 

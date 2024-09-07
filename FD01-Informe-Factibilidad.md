@@ -97,8 +97,24 @@ Versión *{1.0}*
     1.4. Objetivos
 
         1.4.1 Objetivo general
+   
+               Desarrollar un sistema de predicción de postulantes para la Universidad Nacional de Educación Enrique Guzmán y Valle
+               que permita identificar y seleccionar a los candidatos con mayores probabilidades de éxito académico, optimizando el
+               proceso de admisión y mejorando la calidad de los estudiantes admitidos.
+
         1.4.2 Objetivos Específicos
-            Para cada objetivo específico se indicara que se va a lograr
+   
+               ● Implementar un modelo de aprendizaje automático que analice datos históricos de postulantes y determine patrones asociados
+                 con el éxito académico.
+               ● Desarrollar una interfaz intuitiva para los administradores de la universidad que permita la consulta y visualización de
+                 predicciones y datos relevantes de los postulantes.
+               ● Integrar el sistema de predicción con las plataformas existentes de la universidad, asegurando una transición fluida y una
+                 operatividad eficiente.
+               ● Evaluar y ajustar continuamente el modelo predictivo para mejorar su precisión y adaptabilidad a nuevos datos y tendencias
+                 de admisión.
+               ● Capacitar al personal encargado en el uso y mantenimiento del sistema, garantizando su correcta implementación y uso a largo
+                 plazo.
+
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 

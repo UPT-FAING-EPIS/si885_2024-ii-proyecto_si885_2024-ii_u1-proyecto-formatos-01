@@ -163,36 +163,13 @@ Versión *{1.0}*
 
     3.2. Consideraciones de hardware y software
 
-           Para la implementación del "Sistema de Predicción de Postulantes", se evaluarán las siguientes consideraciones de hardware
-           y software:
-   
-            ● Hardware:
-              - Servidores: Se necesitará un servidor con capacidad de procesamiento adecuada para manejar grandes volúmenes de datos,
-                con una CPU de alto rendimiento (mínimo 8 núcleos), al menos 32 GB de RAM y un almacenamiento SSD rápido (mínimo 1 TB)
-                para asegurar la eficiencia en el procesamiento de datos y la ejecución del modelo predictivo. 
-              - Estaciones de Trabajo: Los administradores y operadores del sistema requerirán estaciones de trabajo con especificaciones
-                moderadas, incluyendo al menos 8 GB de RAM, procesadores de al menos 4 núcleos, y una conexión de red estable para
-                interactuar con el sistema de manera eficiente.
-              - Redes: Es esencial contar con una infraestructura de red robusta que soporte la comunicación rápida y segura entre el
-                servidor y las estaciones de trabajo, con especial atención a la seguridad de los datos transferidos.
-   
-            ● Software:
-              - Sistema Operativo: El servidor utilizará un sistema operativo Linux (como Ubuntu Server), que ofrece estabilidad y es
-                ampliamente compatible con herramientas de análisis de datos y machine learning.
-              - Base de Datos: Se implementará una base de datos relacional como MySQL o PostgreSQL para el almacenamiento de datos de
-                postulantes y resultados de predicción, asegurando integridad y acceso rápido a la información.
-              - Librerías y Frameworks de Machine Learning: Se utilizarán librerías como Scikit-learn o TensorFlow, que son ampliamente
-                utilizadas en el desarrollo de modelos predictivos y ofrecen una integración sencilla con los lenguajes de programación.
-              - Lenguajes de Programación: Python será el lenguaje principal para el desarrollo del sistema, debido a su robustez en el
-                manejo de datos y su amplia gama de bibliotecas para machine learning y análisis de datos.
-              - Interfaz de Usuario: Para la interfaz de usuario, se utilizarán tecnologías web como HTML5, CSS3 y JavaScript, apoyadas
-                por frameworks como Django o Flask en el backend, para crear una plataforma accesible y fácil de usar para los
-                administradores de la universidad.
-              - Seguridad: Se implementarán medidas de seguridad como la encriptación de datos sensibles, autenticación de usuarios, y
-                protección contra amenazas cibernéticas para garantizar la integridad y confidencialidad de la información de los postulantes.
-
+        Hardware: Se utilizarán los servidores con los que se cuentan, Las estaciones de trabajo contarán con al menos 8 GB de RAM y procesadores de 4 núcleos. 
+        Software: Se implementará Ubuntu Server como sistema operativo, con bases de datos MySQL o PostgreSQL. El sistema será desarrollado en Python utilizando
+        librerías de machine learning como Scikit-learn o TensorFlow. La interfaz web se construirá con Django o Flask, junto con tecnologías HTML, CSS, y JavaScript. 
+        Seguridad: Se implementará encriptación y autenticación para proteger los datos de los postulantes.
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+
 
 4. <span id="_Toc52661349" class="anchor"></span>**Estudio de
     Factibilidad**

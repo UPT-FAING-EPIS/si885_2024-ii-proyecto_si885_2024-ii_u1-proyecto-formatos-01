@@ -243,7 +243,7 @@ Versión *{1.0}*
   
     4.6. <span id="_Toc52661355" class="anchor"></span>Factibilidad Ambiental
 
-  La implementación de un dashboard de Power BI tiene un impacto ambiental reducido y, en muchos aspectos, positivo, como la reducción del uso de papel y la mejora en la eficiencia operativa. Aunque hay un aumento en el consumo de energía y la huella de carbono digital, estos pueden mitigarse mediante el uso de tecnologías y prácticas sostenibles. Adicionar que se usará el servidor de la UNE para aplicar la tecnología. 
+  La implementación de un dashboard de Power BI tiene un impacto ambiental reducido y, en muchos aspectos, positivo, como la reducción del uso de papel y la mejora en la eficiencia operativa. Aunque hay un aumento en el consumo de energía y la huella de carbono digital, estos pueden mitigarse mediante el uso de tecnologías y prácticas sostenibles. Además, se aprovechará la infraestructura de TI existente en la universidad y el servidor de la UNE, lo que reducirá costos adicionales en hardware y permitirá una implementación eficiente de la tecnología.
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 

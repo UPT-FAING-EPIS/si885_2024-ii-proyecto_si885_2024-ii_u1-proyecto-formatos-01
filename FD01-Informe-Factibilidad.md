@@ -273,12 +273,22 @@ Versión *{1.0}*
    La inversión está justificada por su alta rentabilidad financiera, la optimización de los recursos, la reducción de costos, y la mejora en la toma de decisiones estratégicas. Todo ello contribuye a una gestión más eficiente de la admisión, incrementa los ingresos y fortalece la posición competitiva de la universidad, garantizando un retorno favorable sobre la inversión realizada.
 
         5.1.1. Beneficios del Proyecto
+   
+               ● Beneficios Tangibles:
+                  - Reducción de costos operativos (ahorro del 10% equivalente a S/ 101,400).
+                  - Incremento de ingresos (S/ 1,800,000 anuales).
+                  - Optimización de recursos (mejor uso de personal, materiales y logística).
+                  - Mejora en la eficiencia de admisiones.
+                  - Inversiones en infraestructura y recursos tecnológicos.
 
-            El beneficio se calcula como el margen económico menos los costes de oportunidad, que son los márgenes que hubieran podido obtenerse de haber dedicado el capital y el esfuerzo a otras actividades.
-            El beneficio, obtenido lícitamente, no es sólo una recompensa a la inversión, al esfuerzo y al riesgo asumidos por el empresario, sino que también es un factor esencial para que las empresas sigan en el  mercado e incorporen nuevas inversiones al tejido industrial y social de las naciones.
-            Describir beneficios tangibles e intangibles*
-            Beneficios tangibles: son de fácil cuantificación, generalmente están relacionados con la reducción de recursos o talento humano.
-            Beneficios intangibles: no son fácilmente cuantificables y están relacionados con elementos o mejora en otros procesos de la organización.
+               ● Beneficios Intangibles:
+                  - Mejora en la toma de decisiones estratégicas.
+                  - Incremento en la satisfacción del postulante.
+                  - Fortalecimiento de la imagen institucional.
+                  - Mayor competitividad en el mercado educativo.
+                  - Adaptabilidad y resiliencia ante cambios.
+                  - Fomento de una cultura de innovación y mejora continua.
+
 >
             Ejemplo de beneficios:
 

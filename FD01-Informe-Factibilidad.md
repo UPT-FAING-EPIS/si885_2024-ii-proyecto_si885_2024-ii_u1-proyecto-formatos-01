@@ -80,10 +80,14 @@ Versión *{1.0}*
 
 1. <span id="_Toc52661346" class="anchor"></span>**Descripción del Proyecto**
 
-    1.1. Nombre del proyecto
+    1.1. Nombre del proyecto <br>
+    
+   Sistema de Predicción De Postulantes para la Universidad Nacional De Educación Enrique Guzmán Y Valle
 
-    1.2. Duración del proyecto
-
+    1.2. Duración del proyecto<br>
+    
+   Un tiempo de 30 dias
+   
     1.3. Descripción
 
     <p style="text-align: justify;">

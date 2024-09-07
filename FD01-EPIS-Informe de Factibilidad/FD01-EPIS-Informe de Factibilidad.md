@@ -34,18 +34,18 @@ Integrantes:
 
 **ÍNDICE GENERAL** 
 
-1. [**Descripción del Proyecto** ](#_page3_x68.00_y112.92) 4 
-1. [**Riesgos** ](#_page4_x68.00_y112.92) 5 
-1. [**Análisis de la Situación actual**  5](#_page4_x68.00_y284.92) 
-1. [**Estudio de Factibilidad**  6](#_page5_x68.00_y232.92) 
-1. [**Factibilidad Técnica**  6](#_page5_x68.00_y354.92) 
-1. [**Factibilidad económica**  7](#_page6_x68.00_y507.92) 
-1. [**Factibilidad Operativa**  9](#_page8_x68.00_y198.92) 
-1. [**Factibilidad Lega**l  10 ](#_page9_x68.00_y153.92)
-1. [**Factibilidad Social**  1](#_page9_x68.00_y411.92)0 
-1. [**Factibilidad Ambiental**  1](#_page9_x68.00_y627.92)0 
-5. [**Análisis Financiero**  11](#_page10_x68.00_y194.92) 
-5. [**Conclusiones**  1](#_page13_x68.00_y70.92)2 
+1. [**Descripción del Proyecto** ](#_page3_x68.00_y112.92)
+2. [**Riesgos** ](#_page4_x68.00_y112.92)
+3. [**Análisis de la Situación actual**](#_page4_x68.00_y284.92) 
+4. [**Estudio de Factibilidad**](#_page5_x68.00_y232.92) 
+4.1[**Factibilidad Técnica**](#_page5_x68.00_y354.92) 
+4.2[**Factibilidad económica**](#_page6_x68.00_y507.92) 
+4.3[**Factibilidad Operativa**](#_page8_x68.00_y198.92) 
+4.4[**Factibilidad Lega**l](#_page9_x68.00_y153.92)
+4.5[**Factibilidad Social**](#_page9_x68.00_y411.92)
+4.6[**Factibilidad Ambiental**](#_page9_x68.00_y627.92) 
+5. [**Análisis Financiero**](#_page10_x68.00_y194.92) 
+   [**Conclusiones**](#_page13_x68.00_y70.92)2 
 
 **Informe de Factibilidad** 
 

@@ -193,7 +193,9 @@ Versión *{1.0}*
 
       4.2.1. Costos Generales
 
-      El primer artículo es un televisor LED de 65 pulgadas, con un precio unitario de S/ 1,700.00 y una cantidad de 2 unidades, lo que da un costo total de S/ 3,400.00. El segundo artículo es un rack para TV de 65 pulgadas, con un precio unitario de S/ 100.00 y una cantidad de 2 unidades, lo que resulta en un costo total de S/ 200.00. El total general de los costos es S/ 3,600.00.
+               Para el reporte semanal, indicamos que los costos generales incluyen la compra de útiles de oficina por un valor unitario
+               de S/ 200,00 y una impresora por S/ 700,00. Ambos productos fueron adquiridos en una cantidad de 1 cada uno, resultando
+               en un costo total de S/ 900,00.
     <div style="text-align: center;">
         <img src="img/Costo_general.jpg" alt="Costos Generales" style="width:100%; max-width:600px; height:auto;">
     </div><br>

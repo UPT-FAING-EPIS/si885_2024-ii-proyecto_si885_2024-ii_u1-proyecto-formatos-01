@@ -268,10 +268,9 @@ Versión *{1.0}*
 
 5. <span id="_Toc52661356" class="anchor"></span>**Análisis Financiero**
 
-    El plan financiero se ocupa del análisis de ingresos y gastos asociados a cada proyecto, desde el punto de vista del instante temporal en que se producen. Su misión fundamental es detectar situaciones financieramente inadecuadas.
-    Se tiene que estimar financieramente el resultado del proyecto.
-
     5.1. Justificación de la Inversión
+
+   La inversión está justificada por su alta rentabilidad financiera, la optimización de los recursos, la reducción de costos, y la mejora en la toma de decisiones estratégicas. Todo ello contribuye a una gestión más eficiente de la admisión, incrementa los ingresos y fortalece la posición competitiva de la universidad, garantizando un retorno favorable sobre la inversión realizada.
 
         5.1.1. Beneficios del Proyecto
 

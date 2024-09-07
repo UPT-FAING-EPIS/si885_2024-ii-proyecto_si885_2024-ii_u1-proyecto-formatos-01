@@ -10,26 +10,30 @@
 
 **Escuela Profesional de Ingeniería de Sistemas**
 
-**Proyecto *{Nombre de Proyecto}***
+**Proyecto *Herramienta de Seguimiento y Evaluación del Desempeño de Red y Hardware en Computadoras UPT***
 
-Curso: *{Nombre de Asignatura}*
+Curso: Inteligencia de Negocios
 
-Docente: *{Nombre de Docente}*
+Docente: Mag. Patrick Cuadros Quiroga
 
 Integrantes:
 
-***{Apellidos y nombres del estudiante (código universitario)}***
+Escobar Rejas, Carlos Andrés (2021070016)  
+Apaza Ccalle, Albert Kenyi   (2021071075)  
+Cutipa Gutierrez, Ricardo    (2021069827)  
+Churacutipa Blass, Erick     (2020067578)  
+Huallpa Maron, Jesus Antonio (2021071085) 
 
 **Tacna – Perú**
 
-***{Año}***
+2024
 
 **  
 **
 </center>
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-Sistema *{Nombre del Sistema}*
+**Sistema *Herramienta de Seguimiento y Evaluación del Desempeño de Red y Hardware en Computadoras UPT***
 
 Informe de Factibilidad
 
@@ -38,7 +42,7 @@ Versión *{1.0}*
 |CONTROL DE VERSIONES||||||
 | :-: | :- | :- | :- | :- | :- |
 |Versión|Hecha por|Revisada por|Aprobada por|Fecha|Motivo|
-|1\.0|MPV|ELV|ARV|10/10/2020|Versión Original|
+|1\.0|MPV|ELV|ARV|24/08/2024|Versión Original|
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 

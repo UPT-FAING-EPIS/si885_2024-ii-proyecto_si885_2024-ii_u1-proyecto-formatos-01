@@ -312,8 +312,13 @@ Versión *{1.0}*
     </div><br>
     
             5.1.2.2. Valor Actual Neto (VAN)
-            
-                Valor actual de los beneficios netos que genera el proyecto. Si el VAN es mayor que cero, se acepta el proyecto; si el VAN es igual a cero es indiferente aceptar o rechazar el proyecto y si el VAN es menor que cero se rechaza el proyecto
+                       El VAN es una medida que te dice cuánto valor genera un proyecto en términos presentes, considerando los flujos
+                       de caja futuros descontados a una tasa determinada, el VAN es S/ 4,663,660, lo que indica que el proyecto es 
+                       altamente rentable y generará valor adicional, por encima de lo invertido.
+<br>
+    <div style="text-align: center;">
+        <img src="img/VAN.jpg" alt="Valor Actual Neto" style="width:100%; max-width:600px; height:auto;">
+    </div><br>
 
             5.1.2.3 Tasa Interna de Retorno (TIR)*
                 Es la tasa porcentual que indica la rentabilidad promedio anual que genera el capital invertido en el proyecto. Si la TIR es mayor que el costo de oportunidad se acepta el proyecto, si la TIR es igual al costo de oportunidad es indiferente aceptar o rechazar el proyecto, si la TIR es menor que el costo de oportunidad se rechaza el proyecto

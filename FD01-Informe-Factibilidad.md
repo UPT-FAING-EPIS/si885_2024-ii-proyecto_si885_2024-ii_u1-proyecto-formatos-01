@@ -218,7 +218,10 @@ Versión *{1.0}*
 
       4.2.4. Costos de personal
 
-      El cuadro presenta los costos de personal para tres roles en un proyecto: un Jefe de Proyecto, un Programador de Machine Learning, y un Analista de Datos. El Jefe de Proyecto tiene una tarifa de S/ 20,00 por hora y trabaja 160 horas, resultando en un costo de S/ 3.200,00. Tanto el Programador de Machine Learning como el Analista de Datos tienen una tarifa de S/ 15,00 por hora y trabajan 180 horas cada uno, generando un costo de S/ 2.700,00 para cada uno. El costo total del personal es S/ 8.600,00.
+                El cuadro presenta los costos de personal para tres roles en un proyecto: un Jefe de Proyecto, un Programador de Machine Learning,
+                y un Analista de Datos. El Jefe de Proyecto tiene una tarifa de S/ 25,00 por hora y trabaja 160 horas, resultando en un costo de
+                S/ 4.000,00. Tanto el Programador de Machine Learning como el Analista de Datos tienen una tarifa de S/ 20,00 por hora y trabajan
+                180 horas cada uno, generando un costo de S/ 3.600,00 para cada uno. El costo total del personal es S/ 11.200,00.
     <div style="text-align: center;">
         <img src="img/Costo_personal.jpg" alt="Costos de Personal" style="width:100%; max-width:600px; height:auto;">
     </div><br>

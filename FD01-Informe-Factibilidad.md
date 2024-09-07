@@ -182,17 +182,17 @@ Definir los siguientes costos:
 
 
 
-|**Materiales** |**de** |**uso** |**Coste** |
-| - | - | - | - |
-|**diario** |||**(1mes)** |
-|Papeles |||$4.00 |
-|Lapiceros |||$2.00 |
-|Correctores |||$2.00 |
-|Marcadores |||$2.00 |
-|Engrapadora |||$10.00 |
-|Grapas |||$2.00 |
-|Clips |||$0.50 |
-|Total |||$22.5 |
+|**Materialesdeuso** |**Coste** |
+| - | - |
+|**diario** |**(1mes)** |
+|Papeles |$4.00 |
+|Lapiceros |$2.00 |
+|Correctores |$2.00 |
+|Marcadores |$2.00 |
+|Engrapadora |$10.00 |
+|Grapas |$2.00 |
+|Clips |$0.50 |
+|Total |$22.5 |
 
 2. **Costos operativos durante el desarrollo**  
 

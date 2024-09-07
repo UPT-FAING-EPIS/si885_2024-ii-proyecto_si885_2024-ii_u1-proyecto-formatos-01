@@ -289,24 +289,21 @@ Versión *{1.0}*
                   - Adaptabilidad y resiliencia ante cambios.
                   - Fomento de una cultura de innovación y mejora continua.
 
->
-            Ejemplo de beneficios:
-
-            - Mejoras en la eficiencia del área bajo estudio.
-            - Reducción de personal.
-            - Reducción de futuras inversiones y costos.
-            - Disponibilidad del recurso humano.
-            - Mejoras en planeación, control y uso de recursos.
-            - Suministro oportuno de insumos para las operaciones.
-            - Cumplimiento de requerimientos gubernamentales.
-            - Toma acertada de decisiones.
-            - Disponibilidad de información apropiada.
-            - Aumento en la confiabilidad de la información.
-            - Mejor servicio al cliente externo e interno
-            - Logro de ventajas competitivas.
-            - Valor agregado a un producto de la compañía.
+<br>
         
         5.1.2. Criterios de Inversión
+                Se proyectan ingresos de S/ 1,800,000 por año durante tres años, sumando un total de S/ 5,400,000.
+                Los egresos anuales son de S/ 1,014,000, alcanzando un total de S/ 3,055,085.
+                
+                - Flujo de Caja Neto (FCN) y Valor Actual:
+                El flujo de caja neto se calcula restando los egresos de los ingresos.
+                El valor actual muestra los valores descontados de los flujos de caja a lo largo del tiempo, llegando a S/ 4,676,745.
+                
+<br>
+    <div style="text-align: center;">
+        <img src="img/Prediccion_postulantes.jpg" alt="Prediccion Postulantes" style="width:100%; max-width:600px; height:auto;">
+    </div><br>
+
 
             5.1.2.1. Relación Beneficio/Costo (B/C)
 

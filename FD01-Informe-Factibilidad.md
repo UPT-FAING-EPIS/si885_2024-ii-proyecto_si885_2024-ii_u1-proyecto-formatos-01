@@ -297,20 +297,20 @@ Versión *{1.0}*
                 
                 - Flujo de Caja Neto (FCN) y Valor Actual:
                 El flujo de caja neto se calcula restando los egresos de los ingresos.
-                El valor actual muestra los valores descontados de los flujos de caja a lo largo del tiempo, llegando a S/ 4,676,745.
-                
+                El valor actual muestra los valores descontados de los flujos de caja a lo largo del tiempo, llegando a S/ 4,676,745.                
 <br>
     <div style="text-align: center;">
         <img src="img/Prediccion_postulantes.jpg" alt="Prediccion Postulantes" style="width:100%; max-width:600px; height:auto;">
     </div><br>
 
-
             5.1.2.1. Relación Beneficio/Costo (B/C)
-
-                En base a los costos y beneficios identificados se evalúa si es factible el desarrollo del proyecto. 
-                Si se presentan varias alternativas de solución se evaluará cada una de ellas para determinar la mejor solución desde el punto de vista del > retorno de la inversión
-                El B/C si es mayor a uno, se acepta el proyecto; si el B/C es igual a uno es indiferente aceptar o rechazar el proyecto y si el B/C es menor a uno se rechaza el proyecto
-
+                       La relación B/C mide cuánto beneficio se obtiene por cada sol invertido en el proyecto , el B/C es 1.77, lo que
+                       indica que el proyecto es rentable y cada sol invertido genera 1.77 soles en ingresos.
+<br>
+    <div style="text-align: center;">
+        <img src="img/Beneficio_costo.jpg" alt="Beneficio Costo" style="width:100%; max-width:600px; height:auto;">
+    </div><br>
+    
             5.1.2.2. Valor Actual Neto (VAN)
             
                 Valor actual de los beneficios netos que genera el proyecto. Si el VAN es mayor que cero, se acepta el proyecto; si el VAN es igual a cero es indiferente aceptar o rechazar el proyecto y si el VAN es menor que cero se rechaza el proyecto

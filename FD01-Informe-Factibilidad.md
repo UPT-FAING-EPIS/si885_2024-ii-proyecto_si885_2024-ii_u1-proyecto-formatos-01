@@ -180,7 +180,7 @@ Versión *{1.0}*
 
 - Contamos con el software necesario para el desarrollo, que incluye Visual Studio Code, XAMMP.
 - Disponemos de unas hojas CSV.
-- Un equipo de  cinco programadores está trabajando en el proyecto.
+- Un equipo de  2 programadores está trabajando en el proyecto. Asi como un programador AI, un analista de datos y un jefe de proyecto.
 - La plataforma será compatible con una amplia gama de dispositivos.
 - También hemos incorporado una función de descarga de gráficos y predicciones.
 - Se hará uso del  servidor dedicado de la UNE.

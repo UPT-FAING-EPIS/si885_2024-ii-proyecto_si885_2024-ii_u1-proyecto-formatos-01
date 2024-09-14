@@ -10,7 +10,7 @@
 
 **Escuela Profesional de Ingeniería de Sistemas**
 
-**Proyecto: *Predicción De Postulantes Para La Universidad Nacional <br> De Educación Enrique Guzmán Y Valle***
+**Proyecto: *Dashboard de Deteccion Temprana de Abandono Estudiantil para el area de tutoria EPIS UPT***
 
 Curso: *Inteligencia De Negocios*
 
@@ -183,7 +183,7 @@ Versión *{1.0}*
 - Un equipo de  2 programadores está trabajando en el proyecto. Asi como un programador AI, un analista de datos y un jefe de proyecto.
 - La plataforma será compatible con una amplia gama de dispositivos.
 - También hemos incorporado una función de descarga de gráficos y predicciones.
-- Se hará uso del  servidor dedicado de la UNE.
+- Se hará uso del  servidor dedicado de la UPT.
 
 
    <br> 4.2. <span id="_Toc52661351" class="anchor"></span>Factibilidad Económica<br>
@@ -251,7 +251,7 @@ Versión *{1.0}*
   
     4.6. <span id="_Toc52661355" class="anchor"></span>Factibilidad Ambiental
 
-  La implementación de un dashboard de Power BI tiene un impacto ambiental reducido y, en muchos aspectos, positivo, como la reducción del uso de papel y la mejora en la eficiencia operativa. Aunque hay un aumento en el consumo de energía y la huella de carbono digital, estos pueden mitigarse mediante el uso de tecnologías y prácticas sostenibles. Además, se aprovechará la infraestructura de TI existente en la universidad y el servidor de la UNE, lo que reducirá costos adicionales en hardware y permitirá una implementación eficiente de la tecnología.
+  La implementación de un dashboard de Power BI tiene un impacto ambiental reducido y, en muchos aspectos, positivo, como la reducción del uso de papel y la mejora en la eficiencia operativa. Aunque hay un aumento en el consumo de energía y la huella de carbono digital, estos pueden mitigarse mediante el uso de tecnologías y prácticas sostenibles. Además, se aprovechará la infraestructura de TI existente en la universidad y el servidor de la UPT, lo que reducirá costos adicionales en hardware y permitirá una implementación eficiente de la tecnología.
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 

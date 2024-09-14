@@ -154,18 +154,19 @@ El alcance de este proyecto incluye el desarrollo, implementación y despliegue 
 Este documento está estructurado para proporcionar una visión integral del proyecto, comenzando con la definición del propósito y alcance, seguido por una descripción detallada de los interesados y usuarios. A continuación, se presenta una vista general del producto, incluyendo sus características principales, restricciones y criterios de calidad. Finalmente, se abordan aspectos relacionados con la precedencia, prioridades, y otros requerimientos específicos del producto, concluyendo con recomendaciones y referencias adicionales.
 # <a name="_4rb06qchw7t0"></a><a name="_toc177202757"></a>**2. Posicionamiento**
 ## <a name="_tfbsox16lfxo"></a><a name="_toc177202758"></a>**2.1 Oportunidad de negocio**
-La implementación del **Sistema de Predicción de Postulantes** para la Universidad Nacional de Educación Enrique Guzmán y Valle representa una significativa oportunidad de negocio, tanto para la universidad como para los proveedores de tecnología y servicios asociados. La universidad se beneficiará al optimizar su proceso de admisión, mejorando la calidad de los estudiantes admitidos y, por ende, la tasa de éxito académico y la reputación institucional. Esto puede llevar a una mayor atracción de futuros postulantes y a un incremento en la demanda de sus programas académicos.
+La implementación del **Dashboard de Detección Temprana de Abandono Estudiantil para la Universidad Privada de Tacna** representa una importante oportunidad tanto para la universidad como para los proveedores de tecnología y servicios asociados. La universidad se beneficiará al optimizar su sistema de tutoría, identificando a los estudiantes en riesgo de abandono de manera temprana, lo que permitirá mejorar las tasas de retención y el éxito académico. Esto contribuirá a fortalecer su reputación institucional, atrayendo a más estudiantes y generando una mayor demanda de sus programas académicos.
 
-Desde el punto de vista de proveedores tecnológicos, el desarrollo e implementación de este sistema abre oportunidades para ofrecer soluciones avanzadas en análisis de datos y machine learning. Además, al demostrar la eficacia del sistema en un entorno educativo, se pueden generar casos de éxito que potencialmente se pueden replicar en otras instituciones educativas, ampliando el mercado y la influencia de las tecnologías desarrolladas.
+Desde el punto de vista de los proveedores tecnológicos, el desarrollo e implementación de este sistema abre oportunidades para ofrecer soluciones avanzadas en análisis de datos y aprendizaje automático (machine learning). Además, el éxito del sistema en la universidad podría generar casos de estudio replicables en otras instituciones educativas, ampliando el mercado de estas tecnologías y su influencia en el sector educativo.
+
 ## <a name="_xvd8jp9yyzf6"></a><a name="_toc177202759"></a>**2.2 Definición del problema**
-El proceso actual de admisión en la Universidad Nacional de Educación Enrique Guzmán y Valle enfrenta varios desafíos críticos:
+El proceso actual de seguimiento y apoyo a los estudiantes en la Universidad Privada de Tacna enfrenta varios desafíos críticos relacionados con el abandono estudiantil:
 
-1. **Crecimiento en el número de postulantes:** El aumento en el número de aspirantes ha complicado la tarea de seleccionar candidatos con el mayor potencial académico.
-1. **Evaluación manual:** El proceso manual de evaluación es propenso a errores y es ineficiente, lo que puede llevar a decisiones subóptimas.
-1. **Criterios estandarizados:** Los criterios actuales no reflejan adecuadamente el potencial real de los postulantes para sobresalir académicamente.
-1. **Falta de herramientas tecnológicas:** La ausencia de herramientas avanzadas para el análisis y predicción limita la capacidad de la universidad para mejorar el proceso de selección y aumentar la tasa de éxito de los estudiantes admitidos.
+- **Crecimiento en el número de estudiantes en riesgo:** A medida que aumenta la población estudiantil, se vuelve más difícil identificar y dar seguimiento a aquellos estudiantes que presentan un mayor riesgo de abandonar sus estudios.
+- **Evaluación manual:** El proceso manual para identificar a los estudiantes en riesgo es propenso a errores, consume tiempo y es ineficiente, lo que retrasa las intervenciones oportunas por parte de tutores y administradores.
+- **Criterios limitados:** Los criterios actuales para evaluar el riesgo de abandono no abarcan todos los factores que influyen en el éxito académico, como aspectos socioeconómicos o patrones de comportamiento.
+- **Falta de herramientas tecnológicas:** La ausencia de herramientas avanzadas de análisis de datos y predicción limita la capacidad de la universidad para anticipar el abandono estudiantil y optimizar los recursos de apoyo.
 
-El **Sistema de Predicción de Postulantes** aborda estos problemas mediante el uso de técnicas de análisis de datos y machine learning para proporcionar una evaluación más precisa y eficiente de los candidatos, optimizando así el proceso de admisión.
+El **Dashboard de Detección Temprana de Abandono Estudiantil** aborda estos problemas mediante el uso de técnicas de análisis de datos y aprendizaje automático, proporcionando una evaluación más precisa y eficiente del riesgo de abandono. Esto permite intervenciones tempranas y mejora las tasas de retención estudiantil.
 
 
 

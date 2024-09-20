@@ -219,63 +219,65 @@ Los detalles sobre los costos y precios asociados con el desarrollo e implementa
 ## <a name="_toc177202772"></a>**4.5	Licenciamiento e instalación**
 El producto se licenciará bajo un modelo de suscripción para la universidad. La instalación se realizará en los servidores de la universidad o en la nube, según las necesidades.
 # <a name="_toc177202773"></a>**5.	Características del producto**
-- Modelo Predictivo: Algoritmo de machine learning para estimar el número de postulantes y sus características basadas en datos históricos y actuales.
-- Dashboard Interactivo: Interfaz gráfica para visualizar predicciones, tendencias demográficas y estadísticas en tiempo real.
-- Visualización de Datos: Gráficas y tablas para analizar la distribución geográfica y demográfica de los postulantes.
-- Filtrado y Segmentación: Opciones para filtrar datos por carrera, modalidad, y otros criterios relevantes.
-- Generación de Reportes: Herramienta para crear y exportar reportes en formatos como PDF y Excel.
-- Alertas y Notificaciones: Sistema para alertar sobre cambios significativos en las predicciones y umbrales definidos.
+* **Modelo Predictivo**: Algoritmo de machine learning para estimar el riesgo de abandono estudiantil basado en datos históricos y actuales.  
+* **Dashboard Interactivo**: Interfaz gráfica para visualizar el riesgo de abandono, tendencias académicas y estadísticas en tiempo real.  
+* **Visualización de Datos**: Gráficas y tablas para analizar factores de riesgo como rendimiento académico, asistencia y datos socioeconómicos.  
+* **Filtrado y Segmentación**: Opciones para filtrar datos por carrera, nivel académico, y otros criterios relevantes.  
+* **Generación de Reportes**: Herramienta para crear y exportar reportes sobre estudiantes en riesgo en formatos como PDF y Excel.  
+* **Alertas y Notificaciones**: Sistema para alertar a tutores y administradores sobre estudiantes que superen umbrales de riesgo críticos.
 # <a name="_toc177202774"></a>**6.	Restricciones**
-- Limitaciones Técnicas: Dependencia de la calidad de los datos y la capacidad del algoritmo de machine learning para adaptarse a nuevas tendencias.
-- Tiempo: Plazos para el desarrollo y la implementación del sistema pueden verse afectados por la disponibilidad de recursos y la complejidad del modelo predictivo.
-- Recursos: Disponibilidad de personal especializado en machine learning y análisis de datos, así como de infraestructura tecnológica adecuada.
+* Limitaciones Técnicas: Dependencia de la calidad de los datos y la capacidad del algoritmo de machine learning para adaptarse a nuevas tendencias.  
+* Tiempo: Plazos para el desarrollo y la implementación del sistema pueden verse afectados por la disponibilidad de recursos y la complejidad del modelo predictivo.  
+* Recursos: Disponibilidad de personal especializado en machine learning y análisis de datos, así como de infraestructura tecnológica adecuada.
 # <a name="_toc177202775"></a>**7.	Rangos de calidad**
-Desarrollo del Modelo Predictivo:
+**Desarrollo del Modelo Predictivo:**
 
-- Rango de calidad alto: Algoritmo de machine learning con alta precisión y fiabilidad en las predicciones, sin errores significativos y capaz de adaptarse a nuevas tendencias con eficacia.
-- Rango de calidad medio: Algoritmo con una precisión aceptable, con algunos errores menores que no afectan gravemente las predicciones y que pueden corregirse con ajustes menores.
-- Rango de calidad bajo: Algoritmo con problemas frecuentes en las predicciones, errores significativos que afectan la precisión y la capacidad de adaptación a nuevas tendencias.
+* **Rango de calidad alto**: Algoritmo de machine learning con alta precisión y fiabilidad en la detección del riesgo de abandono, sin errores significativos y capaz de adaptarse a nuevas tendencias en el comportamiento de los estudiantes.  
+* **Rango de calidad medio**: Algoritmo con una precisión aceptable, con algunos errores menores que no afectan gravemente la detección de riesgo y que pueden corregirse con ajustes menores.  
+* **Rango de calidad bajo**: Algoritmo con problemas frecuentes en la detección de riesgo, errores significativos que afectan la precisión y la capacidad de adaptación a nuevos patrones.
 
-Experiencia del Usuario:
+**Experiencia del Usuario:**
 
-- Rango de calidad alto: Dashboard intuitivo y fácil de usar, con navegación fluida, tiempos de respuesta rápidos, y visualización clara de los datos y predicciones.
-- Rango de calidad medio: Algunas áreas del dashboard pueden ser mejoradas para una mayor usabilidad, pero en general, la experiencia del usuario es satisfactoria y cumple con los requisitos básicos.
-- Rango de calidad bajo: Dashboard confuso o difícil de usar, con navegación lenta y problemas significativos en la visualización de datos que afectan la eficiencia en el análisis.
+* **Rango de calidad alto**: Dashboard intuitivo y fácil de usar, con navegación fluida, tiempos de respuesta rápidos, y visualización clara de los datos de los estudiantes y sus riesgos.  
+* **Rango de calidad medio**: Algunas áreas del dashboard pueden ser mejoradas para mayor usabilidad, pero en general, la experiencia del usuario es satisfactoria y cumple con los requisitos básicos.  
+* **Rango de calidad bajo**: Dashboard confuso o difícil de usar, con navegación lenta y problemas significativos en la visualización de datos que afectan la eficiencia en el análisis del riesgo.
 
-Seguridad de Datos:
+**Seguridad de Datos:**
 
-- Rango de calidad alto: Implementación robusta de medidas de seguridad, con protección adecuada de los datos de los postulantes y cumplimiento de las normativas vigentes sobre privacidad y seguridad.
-- Rango de calidad medio: Algunas áreas de mejora en la seguridad de los datos, pero en general, se siguen las mejores prácticas estándar y se realiza un manejo adecuado de la información.
-- Rango de calidad bajo: Fallos graves en la seguridad de datos, como vulnerabilidades significativas o falta de medidas adecuadas para proteger la información personal de los postulantes.
+* **Rango de calidad alto**: Implementación robusta de medidas de seguridad, con protección adecuada de los datos de los estudiantes y cumplimiento de las normativas vigentes sobre privacidad y seguridad.  
+* **Rango de calidad medio**: Algunas áreas de mejora en la seguridad de los datos, pero en general, se siguen las mejores prácticas estándar y se realiza un manejo adecuado de la información.  
+* **Rango de calidad bajo**: Fallos graves en la seguridad de datos, como vulnerabilidades significativas o falta de medidas adecuadas para proteger la información personal de los estudiantes.
 
-Eficiencia Operativa:
+**Eficiencia Operativa:**
 
-- Rango de calidad alto: Sistema de predicción y dashboard operando de manera óptima, con procesos internos bien gestionados, tiempos de carga rápidos y capacidad para manejar grandes volúmenes de datos sin problemas.
-- Rango de calidad medio: Algunas áreas de eficiencia operativa pueden necesitar ajustes, pero el sistema funciona de manera efectiva y cumple con la mayoría de los requisitos operacionales.
-- Rango de calidad bajo: Problemas significativos en la operación del sistema, como tiempos de respuesta lentos, dificultades para manejar grandes volúmenes de datos o errores frecuentes en el procesamiento.
+* **Rango de calidad alto**: Sistema de detección y dashboard operando de manera óptima, con procesos bien gestionados, tiempos de carga rápidos y capacidad para manejar grandes volúmenes de datos sin problemas.  
+* **Rango de calidad medio**: Algunas áreas de eficiencia operativa pueden necesitar ajustes, pero el sistema funciona de manera efectiva y cumple con la mayoría de los requisitos operacionales.  
+* **Rango de calidad bajo**: Problemas significativos en la operación del sistema, como tiempos de respuesta lentos, dificultades para manejar grandes volúmenes de datos o errores frecuentes en el procesamiento.
+
 # <a name="_toc177202776"></a>**8.	Precedencia y Prioridad**
-Desarrollo del Modelo Predictivo
+**Desarrollo del Modelo Predictivo**
 
-- Prioridad: Alta
-- Descripción: Este es el componente central del proyecto. El modelo predictivo debe ser desarrollado y validado primero, ya que proporciona la base para todas las predicciones sobre los postulantes.
+* **Prioridad**: Alta  
+* **Descripción**: Este es el componente central del proyecto. El modelo predictivo debe ser desarrollado y validado primero, ya que proporciona la base para identificar a los estudiantes en riesgo de abandono.
 
-Implementación del Dashboard Interactivo
+**Implementación del Dashboard Interactivo**
 
-- Prioridad: Alta
-- Descripción: Una vez que el modelo predictivo esté funcional, se debe construir el dashboard para visualizar los resultados y permitir a los usuarios interactuar con los datos de manera efectiva.
+* **Prioridad**: Alta  
+* **Descripción**: Una vez que el modelo predictivo esté funcional, se debe construir el **dashboard** para visualizar los resultados y permitir a los usuarios interactuar con los datos de riesgo de manera efectiva.
 
-Generación de Reportes y Alertas
+**Generación de Reportes y Alertas**
 
-- Prioridad: Media
-- Descripción: Después de que el dashboard esté en funcionamiento, se debe desarrollar la capacidad para generar reportes y configurar alertas sobre cambios significativos en las predicciones.
+* **Prioridad**: Media  
+* **Descripción**: Después de que el **dashboard** esté en funcionamiento, se debe desarrollar la capacidad para generar reportes y configurar alertas sobre estudiantes que superen umbrales críticos de riesgo.
 
-Capacitación y Documentación
+**Capacitación y Documentación**
 
-- Prioridad: Baja
-- Descripción: Finalmente, se deben proporcionar recursos educativos y documentación para que los usuarios puedan utilizar el sistema de manera efectiva. Esto incluye manuales de usuario y formación sobre el uso del sistema y la interpretación de los datos.
+* **Prioridad**: Baja  
+* **Descripción**: Finalmente, se deben proporcionar recursos educativos y documentación para que los usuarios puedan utilizar el sistema de manera efectiva. Esto incluye manuales de usuario y formación sobre el uso del sistema y la interpretación de los datos relacionados con el riesgo de abandono.
+
 # <a name="_toc177202777"></a>**9.	Otros requerimientos del producto**
 ## `	`**<a name="_toc177202778"></a>a) Estándares legales**
-- Protección de Datos Personales: Cumplir con la Ley N° 29733, Ley de Protección de Datos Personales, y su reglamento en Perú, que establece cómo se debe manejar y proteger la información personal de los postulantes.
+- Protección de Datos Personales: Cumplir con la Ley N° 29733, Ley de Protección de Datos Personales, y su reglamento en Perú, que establece cómo se debe manejar y proteger la información personal de los estudiantes.
 - Regulación sobre Análisis Predictivo: Asegurarse de que el uso de modelos predictivos cumpla con las regulaciones locales aplicables en el ámbito educativo y de datos.
 - Normativas sobre Seguridad Informática: Seguir las directrices establecidas por el Instituto Nacional de Defensa Civil (INDECI) y el Reglamento de Seguridad de la Información para garantizar la seguridad y protección de la información.
 ## `	`**<a name="_toc177202779"></a>b) Estándares de comunicación**
@@ -292,8 +294,8 @@ Capacitación y Documentación
 - Seguridad de Datos: Implementar medidas de seguridad robustas para proteger la información de los postulantes, incluyendo autenticación de usuarios, cifrado de datos en reposo y en tránsito, y auditorías de seguridad regulares, siguiendo las directrices del Ministerio de Justicia y Derechos Humanos.
 - Cumplimiento de Estándares de Calidad: Seguir normas de desarrollo de software de calidad, adaptadas a la realidad peruana, para garantizar un producto confiable y eficaz.
 # <a name="_toc177202782"></a>**CONCLUSIONES**
-- El sistema permitirá a la universidad prever la cantidad y características de los postulantes, mejorando la planificación y asignación de recursos.
-- El dashboard interactivo facilitará a los administradores el análisis de tendencias y la toma de decisiones basadas en datos actualizados y visualizados en tiempo real.
+* El sistema permitirá a la universidad prever el riesgo de abandono de los estudiantes, mejorando así la planificación y asignación de recursos para su retención.  
+* El dashboard interactivo facilitará a los administradores el análisis de tendencias relacionadas con el abandono y la toma de decisiones basadas en datos actualizados y visualizados en tiempo real.
 # <a name="_toc177202783"></a>**RECOMENDACIONES**
 **Validación y Verificación de Datos:**
 

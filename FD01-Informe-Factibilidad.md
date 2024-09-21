@@ -191,7 +191,7 @@ Herramientas de Análisis y Visualización de Datos:
       4.2.1. Costos Generales
 
                Para el reporte semanal, indicamos que los costos generales incluyen la compra de útiles de oficina La compra de
-  útiles de oficina, en el precio unitario de estos artículos con un valor de S/ 200,00
+               útiles de oficina, en el precio unitario de estos artículos con un valor de S/ 200,00
     <div style="text-align: center;">
         <img src="img/Costo_general.jpg" alt="Costos Generales" style="width:100%; max-width:600px; height:auto;">
     </div><br>

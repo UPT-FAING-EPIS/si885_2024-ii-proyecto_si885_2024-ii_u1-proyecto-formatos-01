@@ -236,7 +236,7 @@ Herramientas de Análisis y Visualización de Datos:
 
        Factibilidad operativa en la imagen detalla los costos iniciales y de mantenimiento para un proyecto, incluyendo roles clave como el Jefe de Proyecto, Programador IA y Analista de datos, además de recursos como el hosting, alquiler de equipo y línea móvil. El costo inicial total asciende a 9485, con un mantenimiento anual de 14020, lo que da un costo total de 23505. El tiempo estimado para la fase inicial es de 180 horas.
   <div style="text-align: center;">
-        <img src="img/imgoperativa.png" alt="Factibilidad Operativa" style="width:100%; max-width:600px; height:auto;">
+        <img src="img/factibilidadfinal.png" alt="Factibilidad Operativa" style="width:100%; max-width:600px; height:auto;">
     </div>
 
     4.4. <span id="_Toc52661353" class="anchor"></span>Factibilidad Legal

@@ -27,6 +27,8 @@ Integrantes:
 
 ***Briceño Diaz, Jorge Luis				(2017059611)***
 
+***Chino Rivera, Angel Alessandro		(2021069830)***
+
 
 
 **Tacna – Perú**

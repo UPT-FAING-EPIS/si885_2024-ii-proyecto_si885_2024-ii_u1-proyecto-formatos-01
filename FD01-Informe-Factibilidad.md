@@ -118,17 +118,18 @@ Versión *{1.0}*
 
     <div style="text-align: justify;">
 
-    - **Errores en los datos**: La calidad de la información y de los datos históricos utilizados determina en gran medida la precisión de las predicciones. Si los datos son incompletos o inexactos, las predicciones pueden ser erróneas o poco confiables.
+    - **Riesgo de Privacidad de Datos**: La recopilación de información sensible, como notas y asistencia, puede generar preocupaciones sobre la privacidad.
 
-    - **Cambios en el entorno académico y factores externos**: Los cambios en la legislación educativa, las políticas de admisión o las circunstancias económicas pueden afectar el número de solicitantes. Estos factores son difíciles de predecir y tienen el potencial de cambiar drásticamente las tendencias observadas en años anteriores.
+    - **Riesgo de Uso Inadecuado de la Información**: La correcta interpretación de los datos es vital. Si los tutores malinterpretan las visualizaciones, podrían tomar decisiones erróneas que afecten a los estudiantes en riesgo, socavando la efectividad del dashboard.
 
-    - **Resistencia a la Alteración y aceptación de resultados**: El personal académico y administrativo puede oponerse a la implementación de un sistema de predicción. Puede haber errores si no confía en los resultados, lo que podría llevar a una falta de aceptación y aplicación del sistema.
 
-    - **Variabilidad en la conducta de los postulantes y cambios en sus preferencias**: Las preferencias de los candidatos pueden cambiar con el tiempo debido a las tendencias sociales, las nuevas carreras o los programas que ofrecen otras instituciones. Esto puede hacer que las predicciones basadas en datos históricos sean menos pertinentes.
+    - **Riesgo de Dependencia de la Tecnología**: El funcionamiento del dashboard es esencial para su efectividad. Si el sistema falla o no se actualiza, puede dejar de ser útil, impidiendo intervenciones a tiempo para prevenir el abandono escolar.
 
-    - **Delimitaciones estratégicas y habilidades analíticas**: La efectividad de los modelos predictivos puede verse afectada por la falta de herramientas adecuadas o de personal capacitado para realizar análisis complejos. Esto puede llevar a una sobreestimación o una subestimación del número de candidatos.
+    - **Riesgo de Capacitación del Personal**: La eficacia del dashboard depende de la capacitación adecuada de docentes. Sin la formación necesaria, la herramienta puede no utilizarse plenamente, limitando su impacto en la detección temprana.
 
-    - **Efecto de la competencia**: La cantidad de postulantes puede verse afectada por la aparición de nuevas universidades o programas académicos en otras instituciones. La competencia es un factor clave que no siempre se puede predecir.
+    - **Riesgo de Resistencia al Cambio**: La adopción de nuevas tecnologías puede enfrentar resistencia por parte del personal académico. Superar esta resistencia es clave para asegurar la aceptación del dashboard y su efectividad.
+
+    - **Riesgo de Sustitución de la Relación Humana**: Aunque el dashboard ofrece datos valiosos, existe el riesgo de que se priorice el análisis sobre la conexión humana. La relación personal entre tutores y estudiantes es esencial para el apoyo emocional y la motivación.
 
     </div>
 

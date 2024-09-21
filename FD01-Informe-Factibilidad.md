@@ -152,13 +152,17 @@ Entre las principales causas que contribuyen a este fenómeno se encuentran las 
 
 <p style="text-align: justify;">
     **Hardware:**
-Las estaciones de trabajo de la EPIS en UPT cuentan con las siguientes especificaciones:
-Procesador: Intel Core i7 .
-Memoria RAM: 8GB a 16GB.
-Disco Duro: SSD de 256GB o HDD de 500GB a 1TB.
-Tarjeta Gráfica: GPU integrada (Intel HD Graphics) o discreta (NVIDIA GeForce).
-Monitores: Pantallas de 21" o más, resolución Full HD.
-Conectividad: Conexión a red LAN y Wi-Fi con velocidad adecuada para procesamiento de datos y transmisión de información.	
+    Las estaciones de trabajo de la EPIS en UPT cuentan con las siguientes especificaciones:
+    Procesador: Intel Core i7 .
+    Memoria RAM: 8GB a 16GB.
+    Disco Duro: SSD de 256GB o HDD de 500GB a 1TB.
+    Tarjeta Gráfica: GPU integrada (Intel HD Graphics) o discreta (NVIDIA GeForce).
+    Monitores: Pantallas de 21" o más, resolución Full HD.
+    Conectividad: Conexión a red LAN y Wi-Fi con velocidad adecuada para procesamiento de datos y transmisión de               información.
+
+Herramientas de Análisis y Visualización de Datos:
+    Tableau: Software que puede ser utilizado para la creación y despliegue de dashboards interactivos. Alternativamente, podrían usarse soluciones open-source como Metabase.
+
 </p>
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>

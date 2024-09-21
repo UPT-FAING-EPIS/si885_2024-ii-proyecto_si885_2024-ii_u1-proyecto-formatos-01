@@ -132,33 +132,34 @@ Versión *{1.0}*
 
     </div>
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+
 
 3. <span id="_Toc52661348" class="anchor"></span>**Análisis de la Situación actual**
 
     3.1. Planteamiento del problema
 
-           En la Universidad Nacional de Educación Enrique Guzmán y Valle, el proceso de admisión de postulantes ha sido un desafío
-           creciente debido al incremento en el número de aspirantes y la diversidad de sus perfiles académicos. Actualmente, la
-           selección de estudiantes se basa en criterios estandarizados que no siempre reflejan el potencial real de los postulantes
-           para sobresalir en su educación superior. Esto ha generado una necesidad urgente de mejorar la precisión y eficacia en la
-           identificación de candidatos que tienen mayores probabilidades de éxito académico, con el fin de optimizar los recursos
-           educativos y aumentar la tasa de retención estudiantil.
+   <p style="text-align: justify;">
+    			En la Escuela Profesional de Ingeniería de Sistemas (EPIS) de la Universidad Privada de Tacna (UPT), el abandono estudiantil representa un desafío importante que afecta tanto el rendimiento académico general como el bienestar de los estudiantes. A lo largo de los últimos años, se ha observado un incremento en la tasa de deserción, lo que genera preocupación tanto en las autoridades académicas como en los tutores responsables de guiar y apoyar a los alumnos. El abandono de los estudios no solo repercute en la trayectoria educativa de los estudiantes, sino también en la reputación y eficiencia de la institución.
 
-           Además, el proceso manual de evaluación de postulantes es tiempo-consuming y susceptible a errores humanos, lo que puede
-           llevar a decisiones de admisión subóptimas. La falta de herramientas tecnológicas avanzadas que analicen de manera integral
-           y precisa los datos de los aspirantes ha limitado la capacidad de la universidad para mejorar su proceso de selección. Este
-           proyecto surge como respuesta a la necesidad de implementar un sistema que utilice técnicas de análisis de datos y predicción
-           para optimizar la selección de postulantes, garantizando así que los estudiantes admitidos tengan un perfil adecuado para
-           enfrentar los desafíos académicos de la universidad.
+Entre las principales causas que contribuyen a este fenómeno se encuentran las inasistencias reiteradas, el bajo rendimiento académico, problemas personales y la falta de un seguimiento adecuado por parte del área de tutoría. Sin embargo, la falta de herramientas eficientes para detectar a tiempo estos factores de riesgo limita la capacidad de los tutores para intervenir de manera proactiva.
+    </p>
+    
+3.2. Consideraciones de hardware y software
 
+<p style="text-align: justify;">
+    La implementación del "Dashboard de Detección Temprana de Abandono Estudiantil" en la Escuela Profesional de Ingeniería de Sistemas (EPIS) de la Universidad Privada de Tacna (UPT) debe tener en cuenta las capacidades de las workstations disponibles en el laboratorio de sistemas y las herramientas tecnológicas disponibles en la universidad.	
+</p>
 
-    3.2. Consideraciones de hardware y software
-
-        Hardware: Se utilizarán los servidores con los que se cuentan, Las estaciones de trabajo contarán con al menos 8 GB de RAM y procesadores de 4 núcleos. 
-        Software: Se implementará Ubuntu Server como sistema operativo, con bases de datos MySQL o PostgreSQL. El sistema será desarrollado en Python utilizando
-        librerías de machine learning como Scikit-learn o TensorFlow. La interfaz web se construirá con Django o Flask, junto con tecnologías HTML, CSS, y JavaScript. 
-        Seguridad: Se implementará encriptación y autenticación para proteger los datos de los postulantes.
+<p style="text-align: justify;">
+    **Hardware:**
+Las estaciones de trabajo de la EPIS en UPT cuentan con las siguientes especificaciones:
+Procesador: Intel Core i7 .
+Memoria RAM: 8GB a 16GB.
+Disco Duro: SSD de 256GB o HDD de 500GB a 1TB.
+Tarjeta Gráfica: GPU integrada (Intel HD Graphics) o discreta (NVIDIA GeForce).
+Monitores: Pantallas de 21" o más, resolución Full HD.
+Conectividad: Conexión a red LAN y Wi-Fi con velocidad adecuada para procesamiento de datos y transmisión de información.	
+</p>
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 

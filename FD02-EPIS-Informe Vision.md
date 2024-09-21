@@ -170,39 +170,36 @@ El **Dashboard de Detección Temprana de Abandono Estudiantil** aborda estos pro
 
 # 3. Descripción de los interesados y usuarios
 
-## 3.1 Resumen de los interesados
+## <a name="_toc177202761">## 3.1 Resumen de los interesados
 Los principales interesados en el Dashboard de Detección Temprana de Abandono Estudiantil son:
 - **Tutora de EPIS:** Responsable de apoyar a los estudiantes en riesgo y coordinar intervenciones.
 - **Administración de la universidad:** Interesada en mejorar la retención y el rendimiento académico.
 - **Estudiantes:** Beneficiarios directos del sistema, buscando una experiencia educativa más enriquecedora.
 
-## 3.2 Resumen de los usuarios
+## <a name="_toc177202762"> 3.2 Resumen de los usuarios
 Los usuarios del sistema incluirán:
 - **Tutora:** Utilizará el dashboard para identificar y apoyar a estudiantes en riesgo, facilitando intervenciones oportunas.
 - **Administradores académicos:** Monitorearán las métricas de retención y evaluarán la efectividad del sistema.
 - **Estudiantes:** Tendrán acceso a datos relevantes para monitorear su propio progreso.
 
-## <a name="_toc177202763"></a>**3.3 Entorno de usuario**
-- **Entorno Físico**: El sistema será utilizado principalmente en entornos de oficina dentro de la universidad, accesible desde estaciones de trabajo con una red de comunicación estable.
-- **Entorno Tecnológico**: Se operará sobre servidores con Linux y estaciones de trabajo con Windows o Linux. El dashboard estará disponible a través de navegadores web, y se integrará con la infraestructura de red existente de la universidad.
-## <a name="_toc177202764"></a>**3.4 Perfiles de los interesados**
-- **Administrador Universitario**:
-  - **Funciones**: Toma de decisiones estratégicas y operativas, supervisión del proceso de admisión.
-  - **Intereses**: Mejorar la calidad del proceso de admisión, optimizar la selección de candidatos.
-  - **Expectativas**: Herramientas que proporcionen datos precisos y fáciles de interpretar.
-- **Personal de TI**:
-  - **Funciones**: Implementación y mantenimiento del sistema.
-  - **Intereses**: Integración sencilla, mantenimiento fácil, y soporte técnico adecuado.
-  - **Expectativas**: Documentación clara y soporte continuo.
-## <a name="_toc177202765"></a>**3.5 Perfiles de los usuarios**
-- **Administrador del Sistema**:
-  - **Funciones**: Gestión de la plataforma, generación de informes.
-  - **Intereses**: Facilidad de uso y acceso a datos completos.
-  - **Expectativas**: Interfaz de administración clara y funcionalidades para gestionar datos de postulantes.
-## <a name="_toc177202766"></a>**3.6 Necesidades de los interesados y usuarios**
-- **Administradores Universitarios**: Necesitan herramientas que faciliten la toma de decisiones informadas y que proporcionen una visión clara de las predicciones y análisis de los postulantes.
-- **Personal de TI**: Requieren una integración sencilla con sistemas existentes, documentación técnica adecuada y soporte para resolver problemas técnicos.
+## <a name="_toc177202763"></a>3.3 Entorno de usuario
+El entorno de usuario incluye:
+- **Aulas y oficinas administrativas:** Espacios donde se realizan las interacciones con el sistema.
+- **Plataformas de gestión académica:** Integración con sistemas existentes de la universidad.
+- **Dispositivos electrónicos:** Computadoras y tablets utilizadas por la tutora y administradores.
 
+## <a name="_toc177202764"></a>3.4 Perfiles de los interesados
+- **Tutora de EPIS:**
+  - **Rol:** Proporcionar apoyo académico y emocional a los estudiantes.
+  - **Intereses:** Mejorar la retención y el éxito académico de los estudiantes.
+  
+- **Administración:**
+  - **Rol:** Tomar decisiones estratégicas basadas en datos.
+  - **Intereses:** Incrementar la reputación institucional y optimizar recursos.
+  
+- **Estudiantes:**
+  - **Rol:** Completar sus estudios con éxito.
+  - **Intereses:** Obtener apoyo académico y evitar el abandono.
   
 # <a name="_toc177202767"></a>**4. Vista General del Producto**
 ## <a name="_toc177202768"></a>**4.1 Perspectiva del producto**

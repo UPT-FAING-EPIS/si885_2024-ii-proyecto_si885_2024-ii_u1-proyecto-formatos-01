@@ -23,7 +23,7 @@ Lopez Catunta, Brayar Christian         (2020068946)<br>
 Briceño Diaz, Jorge Luis               (2017059611)<br>
 Cuadros Garcia, Mirian				(2021071083)<br>
 Hurtado Ortiz, Leandro				(2015052384)<br>
-
+Chino Rivera, Angel Alessandro		(2021069830)<br>
 
 **Tacna – Perú**
 

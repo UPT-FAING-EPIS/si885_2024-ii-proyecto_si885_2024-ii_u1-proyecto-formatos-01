@@ -176,11 +176,11 @@ Herramientas de Análisis y Visualización de Datos:
 
     4.1. <span id="_Toc52661350" class="anchor"></span>Factibilidad Técnica
 
-- Contamos con el software necesario para el desarrollo, que incluye Visual Studio Code, XAMMP.
-- Disponemos de unas hojas CSV.
+- Contamos con el software necesario para el desarrollo, que incluye Tableau.
+- Disponemos de unas hojas excel con informacion de los estudiantes.
 - Un equipo de  2 programadores está trabajando en el proyecto. Asi como un programador AI, un analista de datos y un jefe de proyecto.
 - La plataforma será compatible con una amplia gama de dispositivos.
-- También hemos incorporado una función de descarga de gráficos y predicciones.
+- También hemos incorporado una función de descarga de gráficos.
 - Se hará uso del  servidor dedicado de la UPT.
 
 
@@ -248,11 +248,11 @@ Herramientas de Análisis y Visualización de Datos:
 
     4.5. <span id="_Toc52661354" class="anchor"></span>Factibilidad Social 
 
-  Un dashboard de Power BI restringido al personal encargado es socialmente factible y beneficioso para la universidad. Esto mejorará la eficiencia, la toma de decisiones y la colaboración interna, mientras protege la confidencialidad de la información.
+  Un dashboard de Tableau restringido al personal encargado es socialmente factible y beneficioso para la universidad. Esto mejorará la eficiencia, la toma de decisiones y la colaboración interna, mientras protege la confidencialidad de la información.
   
     4.6. <span id="_Toc52661355" class="anchor"></span>Factibilidad Ambiental
 
-  La implementación de un dashboard de Power BI tiene un impacto ambiental reducido y, en muchos aspectos, positivo, como la reducción del uso de papel y la mejora en la eficiencia operativa. Aunque hay un aumento en el consumo de energía y la huella de carbono digital, estos pueden mitigarse mediante el uso de tecnologías y prácticas sostenibles. Además, se aprovechará la infraestructura de TI existente en la universidad y el servidor de la UPT, lo que reducirá costos adicionales en hardware y permitirá una implementación eficiente de la tecnología.
+  La implementación de un dashboard de Tableau tiene un impacto ambiental reducido y, en muchos aspectos, positivo, como la reducción del uso de papel y la mejora en la eficiencia operativa. Aunque hay un aumento en el consumo de energía y la huella de carbono digital, estos pueden mitigarse mediante el uso de tecnologías y prácticas sostenibles. Además, se aprovechará la infraestructura de TI existente en la universidad y el servidor de la UPT, lo que reducirá costos adicionales en hardware y permitirá una implementación eficiente de la tecnología.
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 

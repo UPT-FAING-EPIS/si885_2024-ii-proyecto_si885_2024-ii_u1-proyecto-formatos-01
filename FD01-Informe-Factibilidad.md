@@ -98,9 +98,7 @@ Versión *{1.0}*
 
         1.4.1 Objetivo general
    
-               Desarrollar un sistema de predicción de postulantes para la Universidad Nacional de Educación Enrique Guzmán y Valle
-               que permita identificar y seleccionar a los candidatos con mayores probabilidades de éxito académico, optimizando el
-               proceso de admisión y mejorando la calidad de los estudiantes admitidos.
+               Implementar un dashboard interactivo que permita detectar de manera temprana el riesgo de abandono estudiantil en los alumnos de EPIS UPT, mediante el análisis de datos académicos y sociodemográficos, para mejorar las estrategias de tutoría y asegurar la permanencia de los estudiantes en sus estudios.
 
         1.4.2 Objetivos Específicos
    

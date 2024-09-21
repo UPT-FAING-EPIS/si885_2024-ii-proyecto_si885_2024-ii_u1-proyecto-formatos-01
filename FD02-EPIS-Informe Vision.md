@@ -216,14 +216,17 @@ El entorno de usuario incluye:
 - **Estudiantes:** Desean acceso a recursos y apoyo para mejorar su desempeño académico.
   
 # <a name="_toc177202767"></a>**4. Vista General del Producto**
+
 ## <a name="_toc177202768"></a>**4.1 Perspectiva del producto**
-El producto final es un dashboard interactivo dirigido a los administradores de la universidad. Este dashboard permitirá prever el número de aspirantes y sus características, facilitando la toma de decisiones en el proceso de admisión.
+El Dashboard de Detección Temprana de Abandono Estudiantil es una herramienta desarrollada para ayudar a la tutora y a la administración de la universidad a identificar y apoyar a estudiantes en riesgo de abandono. Utilizando Power BI, el sistema integrará diversas fuentes de datos académicos y de comportamiento, permitiendo un análisis visual y dinámico que facilitará la toma de decisiones informadas.
+
 ## <a name="_toc177202769"></a>**4.2 Resumen de capacidades**
-- **Predicción de postulantes**: Estimación del número de postulantes por carrera.
-- **Análisis demográfico**: Visualización de la distribución geográfica y perfiles de los postulantes.
-- **Visualización de tendencias**: Identificación de patrones en la demanda de admisiones.
-- **Generación de reportes**: Exportación de datos en formatos como PDF y Excel.
-- **Alertas**: Notificaciones sobre cambios significativos en las predicciones.
+- **Visualización de datos en tiempo real:** Dashboards interactivos que permiten monitorear el rendimiento estudiantil de forma continua.
+- **Alertas tempranas:** Notificaciones automáticas para la tutora cuando un estudiante presenta indicadores de riesgo.
+- **Análisis histórico:** Capacidad de revisar tendencias en el rendimiento y la retención de estudiantes a lo largo del tiempo.
+- **Interactividad:** Herramientas para que la tutora explore los datos y realice un análisis ad hoc.
+- **Informes personalizados:** Generación de informes que pueden ser compartidos con la administración y otros interesados.
+
 ## <a name="_toc177202770"></a>**4.3 Suposiciones y dependencias**
 - **Suposiciones**:
   - Se asume que se dispondrá de datos históricos precisos y completos de postulantes anteriores.
@@ -237,6 +240,8 @@ El producto final es un dashboard interactivo dirigido a los administradores de 
 Los detalles sobre los costos y precios asociados con el desarrollo e implementación del Sistema de Predicción de Postulantes se encuentran en el documento separado titulado **FD01-Informe de Factibilidad**. Este informe proporciona un análisis detallado de los costos involucrados en cada fase del proyecto.
 ## <a name="_toc177202772"></a>**4.5	Licenciamiento e instalación**
 El producto se licenciará bajo un modelo de suscripción para la universidad. La instalación se realizará en los servidores de la universidad o en la nube, según las necesidades.
+
+
 # <a name="_toc177202773"></a>**5.	Características del producto**
 * **Modelo Predictivo**: Algoritmo de machine learning para estimar el riesgo de abandono estudiantil basado en datos históricos y actuales.  
 * **Dashboard Interactivo**: Interfaz gráfica para visualizar el riesgo de abandono, tendencias académicas y estadísticas en tiempo real.  
@@ -244,6 +249,7 @@ El producto se licenciará bajo un modelo de suscripción para la universidad. L
 * **Filtrado y Segmentación**: Opciones para filtrar datos por carrera, nivel académico, y otros criterios relevantes.  
 * **Generación de Reportes**: Herramienta para crear y exportar reportes sobre estudiantes en riesgo en formatos como PDF y Excel.  
 * **Alertas y Notificaciones**: Sistema para alertar a tutores y administradores sobre estudiantes que superen umbrales de riesgo críticos.
+
 # <a name="_toc177202774"></a>**6.	Restricciones**
 * Limitaciones Técnicas: Dependencia de la calidad de los datos y la capacidad del algoritmo de machine learning para adaptarse a nuevas tendencias.  
 * Tiempo: Plazos para el desarrollo y la implementación del sistema pueden verse afectados por la disponibilidad de recursos y la complejidad del modelo predictivo.  

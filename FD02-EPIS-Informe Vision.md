@@ -47,8 +47,8 @@ Integrantes:
 |Versión|Hecha por|Revisada por|Aprobada por|Fecha|Motivo|
 |1\.0|JLBD|JLBCG|JLBCG|31/08/2024|Versión Original|
 |1\.1|JBD/LHO|JLBCG|JLBCG|31/08/2024|Versión Original|
-|1\.3|BH|MCLHB|MCLHB|07/09/2024|Versión Original|
-|1\.4|BH|MCLHB|MCLHB|21/09/2024|Versión Original|
+|1\.2|BH|MCLHB|MCLHB|07/09/2024|Versión Original|
+|1\.3|BH|MCLHB|MCLHB|21/09/2024|Versión Original|
 
 
 **INDICE GENERAL**
@@ -228,19 +228,25 @@ El Dashboard de Detección Temprana de Abandono Estudiantil es una herramienta d
 - **Informes personalizados:** Generación de informes que pueden ser compartidos con la administración y otros interesados.
 
 ## <a name="_toc177202770"></a>**4.3 Suposiciones y dependencias**
-- **Suposiciones**:
-  - Se asume que se dispondrá de datos históricos precisos y completos de postulantes anteriores.
-  - Se asume que los algoritmos de machine learning serán capaces de adaptarse a cambios en las tendencias de postulación.
-  - Se asume que los usuarios tendrán acceso regular a Internet para interactuar con el dashboard.
-- **Dependencias**:
-  - Dependencia en la calidad y disponibilidad de los datos: La precisión de las predicciones depende en gran medida de la calidad de los datos proporcionados.
-  - Dependencia de la infraestructura tecnológica: El funcionamiento óptimo del sistema requiere servidores y bases de datos con capacidades suficientes para manejar grandes volúmenes de datos.
-  - Dependencia de la colaboración de las áreas de admisión y tecnología de la universidad para la correcta implementación y mantenimiento del sistema.
-## <a name="_toc177202771"></a>**4.4	Costos y precios**
-Los detalles sobre los costos y precios asociados con el desarrollo e implementación del Sistema de Predicción de Postulantes se encuentran en el documento separado titulado **FD01-Informe de Factibilidad**. Este informe proporciona un análisis detallado de los costos involucrados en cada fase del proyecto.
-## <a name="_toc177202772"></a>**4.5	Licenciamiento e instalación**
-El producto se licenciará bajo un modelo de suscripción para la universidad. La instalación se realizará en los servidores de la universidad o en la nube, según las necesidades.
+### Suposiciones:
+- Los datos necesarios para el análisis estarán disponibles y en formatos compatibles con Power BI.
+- La tutora y los administradores tendrán el entrenamiento adecuado para utilizar el sistema eficientemente.
+- La implementación del dashboard se realizará sin interrupciones significativas en las operaciones académicas.
 
+### Dependencias:
+- Integración con sistemas existentes de gestión académica para la recopilación de datos.
+- Requerimientos de infraestructura tecnológica para el uso de Power BI.
+- Soporte continuo de los proveedores de tecnología durante la implementación.
+
+## <a name="_toc177202771"></a>**4.4 Costos y precios**
+Los costos asociados con el desarrollo e implementación del Dashboard de Detección Temprana de Abandono Estudiantil están detallados en el documento FD01-Informe de Factibilidad.
+
+## <a name="_toc177202772"></a>**4.5 Licenciamiento e instalación**
+El uso de Power BI requiere la adquisición de licencias adecuadas que se alineen con el número de usuarios y las características del sistema. El proceso de instalación incluirá:
+- Configuración del entorno de Power BI.
+- Integración de las fuentes de datos.
+- Capacitación para la tutora y los administradores sobre el uso del dashboard.
+- Soporte técnico inicial durante la fase de implementación para asegurar una transición fluida.
 
 # <a name="_toc177202773"></a>**5.	Características del producto**
 * **Modelo Predictivo**: Algoritmo de machine learning para estimar el riesgo de abandono estudiantil basado en datos históricos y actuales.  

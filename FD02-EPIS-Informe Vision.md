@@ -170,7 +170,7 @@ El **Dashboard de Detección Temprana de Abandono Estudiantil** aborda estos pro
 
 # 3. Descripción de los interesados y usuarios
 
-## <a name="_toc177202761">## 3.1 Resumen de los interesados
+## <a name="_toc177202761"> 3.1 Resumen de los interesados
 Los principales interesados en el Dashboard de Detección Temprana de Abandono Estudiantil son:
 - **Tutora de EPIS:** Responsable de apoyar a los estudiantes en riesgo y coordinar intervenciones.
 - **Administración de la universidad:** Interesada en mejorar la retención y el rendimiento académico.
@@ -200,6 +200,20 @@ El entorno de usuario incluye:
 - **Estudiantes:**
   - **Rol:** Completar sus estudios con éxito.
   - **Intereses:** Obtener apoyo académico y evitar el abandono.
+
+## <a name="_toc177202765"></a>3.5 Perfiles de los usuarios
+- **Tutora:**
+  - **Responsabilidades:** Monitorear el rendimiento y bienestar de los estudiantes, intervenir de manera efectiva y coordinar apoyos.
+  - **Habilidades:** Uso de tecnología, análisis de datos y habilidades de comunicación.
+  
+- **Administradores:**
+  - **Responsabilidades:** Analizar datos de retención y proponer mejoras en el sistema académico.
+  - **Habilidades:** Gestión de información y toma de decisiones basadas en datos.
+
+## <a name="_toc177202766"></a>3.6 Necesidades de los interesados y usuarios
+- **Tutora:** Necesita herramientas para identificar rápidamente a estudiantes en riesgo y métodos eficaces de intervención.
+- **Administración:** Requiere datos precisos y en tiempo real sobre la retención estudiantil para fundamentar decisiones informadas.
+- **Estudiantes:** Desean acceso a recursos y apoyo para mejorar su desempeño académico.
   
 # <a name="_toc177202767"></a>**4. Vista General del Producto**
 ## <a name="_toc177202768"></a>**4.1 Perspectiva del producto**

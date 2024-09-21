@@ -168,14 +168,20 @@ El proceso actual de seguimiento y apoyo a los estudiantes en la Universidad Pri
 
 El **Dashboard de Detección Temprana de Abandono Estudiantil** aborda estos problemas mediante el uso de técnicas de análisis de datos y aprendizaje automático, proporcionando una evaluación más precisa y eficiente del riesgo de abandono. Esto permite intervenciones tempranas y mejora las tasas de retención estudiantil.
 
+# 3. Descripción de los interesados y usuarios
 
+## 3.1 Resumen de los interesados
+Los principales interesados en el Dashboard de Detección Temprana de Abandono Estudiantil son:
+- **Tutora de EPIS:** Responsable de apoyar a los estudiantes en riesgo y coordinar intervenciones.
+- **Administración de la universidad:** Interesada en mejorar la retención y el rendimiento académico.
+- **Estudiantes:** Beneficiarios directos del sistema, buscando una experiencia educativa más enriquecedora.
 
-# <a name="_toc177202760"></a>**3. Descripción de los interesados y usuarios**
-## <a name="_toc177202761"></a>**3.1 Resumen de los interesados**
-- **Administradores Universitarios**: Responsables de la toma de decisiones en el proceso de admisión y evaluación de postulantes. Están interesados en herramientas que les permitan tomar decisiones informadas y optimizar el proceso de selección.
-- **Personal de TI**: Encargados de la implementación y mantenimiento del sistema. Necesitan una solución que sea fácil de integrar con las plataformas existentes y que requiera un mantenimiento mínimo.
-## <a name="_toc177202762"></a>**3.2 Resumen de los usuarios**
-- **Administradores del Sistema**: Utilizarán el dashboard para consultar y analizar datos de postulantes. Necesitan una interfaz intuitiva y herramientas para visualizar las predicciones y datos relevantes.
+## 3.2 Resumen de los usuarios
+Los usuarios del sistema incluirán:
+- **Tutora:** Utilizará el dashboard para identificar y apoyar a estudiantes en riesgo, facilitando intervenciones oportunas.
+- **Administradores académicos:** Monitorearán las métricas de retención y evaluarán la efectividad del sistema.
+- **Estudiantes:** Tendrán acceso a datos relevantes para monitorear su propio progreso.
+
 ## <a name="_toc177202763"></a>**3.3 Entorno de usuario**
 - **Entorno Físico**: El sistema será utilizado principalmente en entornos de oficina dentro de la universidad, accesible desde estaciones de trabajo con una red de comunicación estable.
 - **Entorno Tecnológico**: Se operará sobre servidores con Linux y estaciones de trabajo con Windows o Linux. El dashboard estará disponible a través de navegadores web, y se integrará con la infraestructura de red existente de la universidad.
@@ -196,6 +202,8 @@ El **Dashboard de Detección Temprana de Abandono Estudiantil** aborda estos pro
 ## <a name="_toc177202766"></a>**3.6 Necesidades de los interesados y usuarios**
 - **Administradores Universitarios**: Necesitan herramientas que faciliten la toma de decisiones informadas y que proporcionen una visión clara de las predicciones y análisis de los postulantes.
 - **Personal de TI**: Requieren una integración sencilla con sistemas existentes, documentación técnica adecuada y soporte para resolver problemas técnicos.
+
+  
 # <a name="_toc177202767"></a>**4. Vista General del Producto**
 ## <a name="_toc177202768"></a>**4.1 Perspectiva del producto**
 El producto final es un dashboard interactivo dirigido a los administradores de la universidad. Este dashboard permitirá prever el número de aspirantes y sus características, facilitando la toma de decisiones en el proceso de admisión.

@@ -48,7 +48,7 @@ Integrantes:
 |1\.0|JLBD|JLBCG|JLBCG|31/08/2024|Versión Original|
 |1\.1|JBD/LHO|JLBCG|JLBCG|31/08/2024|Versión Original|
 |1\.3|BH|MCLHB|MCLHB|07/09/2024|Versión Original|
-
+|1\.4|BH|MCLHB|MCLHB|21/09/2024|Versión Original|
 
 
 **INDICE GENERAL**
@@ -296,32 +296,33 @@ El producto se licenciará bajo un modelo de suscripción para la universidad. L
 # <a name="_toc177202782"></a>**CONCLUSIONES**
 * El sistema permitirá a la universidad prever el riesgo de abandono de los estudiantes, mejorando así la planificación y asignación de recursos para su retención.  
 * El dashboard interactivo facilitará a los administradores el análisis de tendencias relacionadas con el abandono y la toma de decisiones basadas en datos actualizados y visualizados en tiempo real.
-# <a name="_toc177202783"></a>**RECOMENDACIONES**
+
+# **RECOMENDACIONES**
+
 **Validación y Verificación de Datos:**
 
-- **Recomendación:** Implementar procesos rigurosos para la validación y verificación de datos históricos utilizados para el entrenamiento del modelo predictivo. Esto incluye la limpieza de datos, la eliminación de errores y la comprobación de la integridad y precisión de los datos.
-- **Justificación:** La precisión del modelo predictivo depende en gran medida de la calidad de los datos. Datos erróneos o incompletos pueden llevar a predicciones inexactas y decisiones subóptimas en el proceso de admisión.
+- **Recomendación:** Implementar procesos rigurosos para la validación y verificación de los datos históricos utilizados en el modelo de predicción del abandono estudiantil. Esto incluye la limpieza de datos, la eliminación de errores y la comprobación de la integridad y precisión de la información académica y socioeconómica de los estudiantes.
+- **Justificación:** La efectividad del modelo predictivo depende de la calidad de los datos. Datos erróneos o incompletos pueden resultar en predicciones inexactas, afectando negativamente la capacidad de intervención temprana y las decisiones de tutoría.
 
 **Capacitación Continua del Personal:**
 
-- **Recomendación:** Ofrecer capacitación continua y actualizaciones para los administradores y evaluadores académicos sobre el uso del sistema y sus funcionalidades. Asegurarse de que el personal esté bien capacitado para interpretar las predicciones y utilizar el sistema de manera efectiva.
-- **Justificación:** La correcta utilización del sistema y la interpretación precisa de sus resultados son cruciales para maximizar sus beneficios. La capacitación regular ayudará a mantener la competencia y confianza en el uso del sistema.
+- **Recomendación:** Proporcionar capacitación continua y actualizaciones a tutores y administradores sobre el uso del sistema y sus funcionalidades. Asegurarse de que el personal esté bien capacitado para interpretar las predicciones y utilizar el dashboard de manera efectiva.
+- **Justificación:** Una correcta interpretación de las predicciones es crucial para maximizar los beneficios del sistema. La capacitación regular ayudará a mantener la competencia y confianza en el uso de la herramienta.
 
 **Actualización y Mantenimiento del Modelo Predictivo:**
 
-- **Recomendación:** Establecer un proceso continuo para la actualización y ajuste del modelo predictivo en función de nuevos datos y cambios en las tendencias de admisión. Realizar evaluaciones periódicas del rendimiento del modelo y ajustar los parámetros según sea necesario.
-- **Justificación:** Las condiciones y las tendencias pueden cambiar con el tiempo, por lo que es importante que el modelo se mantenga relevante y preciso en el contexto actual.
+- **Recomendación:** Establecer un proceso continuo para la actualización y ajuste del modelo predictivo en función de nuevos datos y cambios en las tendencias de abandono estudiantil. Realizar evaluaciones periódicas del rendimiento del modelo y ajustar los parámetros según sea necesario.
+- **Justificación:** Las condiciones académicas y sociales pueden cambiar con el tiempo. Es fundamental que el modelo se mantenga relevante y preciso para abordar las nuevas realidades del entorno educativo.
 
 **Integración y Compatibilidad:**
 
-- **Recomendación:** Asegurarse de que el sistema de predicción se integre de manera fluida con las plataformas existentes de la universidad. Realizar pruebas exhaustivas de integración para identificar y resolver problemas potenciales antes de la implementación completa.
-- **Justificación:** Una integración exitosa minimizará la resistencia al cambio y garantizará una transición más suave, reduciendo el riesgo de problemas técnicos y operativos.
+- **Recomendación:** Asegurarse de que el sistema de predicción se integre de manera fluida con las plataformas y sistemas existentes de la universidad. Realizar pruebas exhaustivas de integración para identificar y resolver problemas potenciales antes de la implementación completa.
+- **Justificación:** Una integración exitosa facilitará la adopción del sistema por parte de los usuarios y garantizará una transición más suave, reduciendo el riesgo de problemas técnicos y operativos.
 
 **Gestión de la Seguridad de Datos:**
 
-- **Recomendación:** Implementar medidas de seguridad robustas para proteger la información sensible de los postulantes. Esto incluye encriptación de datos, autenticación de usuarios y protocolos de seguridad para prevenir accesos no autorizados.
-- **Justificación:** La protección de los datos de los postulantes es crucial para mantener la confianza en el sistema y cumplir con las normativas de privacidad y seguridad.
-
+- **Recomendación:** Implementar medidas de seguridad robustas para proteger la información sensible de los estudiantes. Esto incluye encriptación de datos, autenticación de usuarios y protocolos de seguridad para prevenir accesos no autorizados.
+- **Justificación:** La protección de los datos de los estudiantes es esencial para mantener la confianza en el sistema y cumplir con las normativas de privacidad y seguridad.
 
 # <a name="_toc177202784"></a>**BIBLIOGRAFIA**
 Breiman, L. (2001). "Random Forests". *Machine Learning*, 45(1), 5-32.

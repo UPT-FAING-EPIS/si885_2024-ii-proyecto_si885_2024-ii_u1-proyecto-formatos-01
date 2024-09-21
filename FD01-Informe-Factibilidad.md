@@ -96,27 +96,25 @@ Versión *{1.0}*
 
     1.4. Objetivos
 
-        1.4.1 Objetivo general
+   1.4.1 Objetivo general
+    <p style="text-align: justify;">
+    			Implementar un dashboard interactivo que permita detectar de manera temprana el riesgo de abandono estudiantil en los alumnos de EPIS UPT, mediante el análisis de datos académicos y sociodemográficos, para mejorar las estrategias de tutoría y asegurar la permanencia de los estudiantes en sus estudios.
+    </p>
+    1.4.2 Objetivos Específicos
+    <p style="text-align: justify;">
+    Identificar patrones de inasistencia y rendimiento académico que puedan estar asociados con un alto riesgo de abandono.
+    
+    Analizar la relación entre variables sociodemográficas como el género y la edad, y su impacto en el rendimiento académico y la asistencia.
    
-               Implementar un dashboard interactivo que permita detectar de manera temprana el riesgo de abandono estudiantil en los alumnos de EPIS UPT, mediante el análisis de datos académicos y sociodemográficos, para mejorar las estrategias de tutoría y asegurar la permanencia de los estudiantes en sus estudios.
-
-        1.4.2 Objetivos Específicos
-   
-               ● Implementar un modelo de aprendizaje automático que analice datos históricos de postulantes y determine patrones asociados
-                 con el éxito académico.
-               ● Desarrollar una interfaz intuitiva para los administradores de la universidad que permita la consulta y visualización de
-                 predicciones y datos relevantes de los postulantes.
-               ● Integrar el sistema de predicción con las plataformas existentes de la universidad, asegurando una transición fluida y una
-                 operatividad eficiente.
-               ● Evaluar y ajustar continuamente el modelo predictivo para mejorar su precisión y adaptabilidad a nuevos datos y tendencias
-                 de admisión.
-               ● Capacitar al personal encargado en el uso y mantenimiento del sistema, garantizando su correcta implementación y uso a largo
-                 plazo.
+    Proporcionar visualizaciones dinámicas y fáciles de interpretar para que los tutores y docentes puedan tomar decisiones informadas sobre la intervención temprana con los estudiantes en riesgo.
+    
+    Generar alertas tempranas y reportes personalizados basados en indicadores de riesgo académico, facilitando la toma de acciones correctivas en el proceso de tutoría.
+    
+    Optimizar las estrategias de tutoría mediante el uso de datos históricos que permitan detectar tendencias de deserción y proponer mejoras a nivel institucional.
+    </p>
 
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
-
-2. <span id="_Toc52661347" class="anchor"></span>**Riesgos**
+3. <span id="_Toc52661347" class="anchor"></span>**Riesgos**
 
     <div style="text-align: justify;">
 

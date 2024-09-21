@@ -102,15 +102,15 @@ Versión *{1.0}*
     </p>
     1.4.2 Objetivos Específicos
     <p style="text-align: justify;">
-    Identificar patrones de inasistencia y rendimiento académico que puedan estar asociados con un alto riesgo de abandono.
+     - **Identificar patrones de inasistencia y rendimiento académico** que puedan estar asociados con un alto riesgo de abandono.
     
-    Analizar la relación entre variables sociodemográficas como el género y la edad, y su impacto en el rendimiento académico y la asistencia.
+     - **Analizar la relación entre variables sociodemográficas** como el género y la edad, y su impacto en el rendimiento académico y la asistencia.
    
-    Proporcionar visualizaciones dinámicas y fáciles de interpretar para que los tutores y docentes puedan tomar decisiones informadas sobre la intervención temprana con los estudiantes en riesgo.
+     - **Proporcionar visualizaciones dinámicas y fáciles de interpretar** para que los tutores y docentes puedan tomar decisiones informadas sobre la intervención temprana con los estudiantes en riesgo.
     
-    Generar alertas tempranas y reportes personalizados basados en indicadores de riesgo académico, facilitando la toma de acciones correctivas en el proceso de tutoría.
+     - **Generar alertas tempranas y reportes personalizadosv** basados en indicadores de riesgo académico, facilitando la toma de acciones correctivas en el proceso de tutoría.
     
-    Optimizar las estrategias de tutoría mediante el uso de datos históricos que permitan detectar tendencias de deserción y proponer mejoras a nivel institucional.
+    - **Optimizar las estrategias de tutoría** mediante el uso de datos históricos que permitan detectar tendencias de deserción y proponer mejoras a nivel institucional.
     </p>
 
 

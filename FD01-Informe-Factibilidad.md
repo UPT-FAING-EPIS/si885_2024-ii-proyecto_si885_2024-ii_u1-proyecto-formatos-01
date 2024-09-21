@@ -82,7 +82,7 @@ Versión *{1.0}*
 
     1.1. Nombre del proyecto <br>
     
-   Sistema de Predicción De Postulantes para la Universidad Nacional De Educación Enrique Guzmán Y Valle
+   Dashboard de Detección Temprana de Abandono Estudiantil para el área de tutoría de EPIS UPT
 
     1.2. Duración del proyecto<br>
     

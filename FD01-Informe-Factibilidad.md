@@ -302,9 +302,10 @@ Herramientas de Análisis y Visualización de Datos:
     </div><br>
     
             5.1.2.2. Valor Actual Neto (VAN)
-                       El VAN es una medida que te dice cuánto valor genera un proyecto en términos presentes, considerando los flujos
-                       de caja futuros descontados a una tasa determinada, el VAN es S/ 4,663,660, lo que indica que el proyecto es 
-                       altamente rentable y generará valor adicional, por encima de lo invertido.
+                       El VAN es una medida que indica cuánto valor genera un proyecto en términos presentes, considerando los flujos de caja futuros descontados a 
+                       una tasa determinada. En base a la tabla, el VAN es S/ 1,880.34, lo que indica que el proyecto es rentable, ya que generará un valor adicional 
+                       por encima de lo invertido. Un VAN positivo significa que el proyecto no solo recuperará la inversión inicial, sino que también generará una 
+                       ganancia neta a lo largo del tiempo.
 <br>
     <div style="text-align: center;">
         <img src="img/VAN.jpg" alt="Valor Actual Neto" style="width:100%; max-width:600px; height:auto;">

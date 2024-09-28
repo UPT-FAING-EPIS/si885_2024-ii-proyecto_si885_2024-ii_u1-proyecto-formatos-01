@@ -294,8 +294,8 @@ Herramientas de Análisis y Visualización de Datos:
     </div><br>
 
             5.1.2.1. Relación Beneficio/Costo (B/C)
-                       La relación B/C mide cuánto beneficio se obtiene por cada sol invertido en el proyecto , el B/C es 1.77, lo que
-                       indica que el proyecto es rentable y cada sol invertido genera 1.77 soles en ingresos.
+                       La relación B/C mide cuánto beneficio se obtiene por cada sol invertido en el proyecto. En base a la tabla, el B/C es 1.15, lo que indica 
+                       que el proyecto es rentable y cada sol invertido genera S/ 1.15 en ingresos.
 <br>
     <div style="text-align: center;">
         <img src="img/Beneficio_costo.jpg" alt="Beneficio Costo" style="width:100%; max-width:600px; height:auto;">

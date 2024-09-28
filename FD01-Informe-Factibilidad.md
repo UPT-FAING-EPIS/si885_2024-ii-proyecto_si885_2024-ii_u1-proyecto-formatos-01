@@ -312,9 +312,9 @@ Herramientas de Análisis y Visualización de Datos:
     </div><br>
 
             5.1.2.3 Tasa Interna de Retorno (TIR)*
-                       La TIR es la tasa de descuento a la cual el VAN es igual a cero. Es decir, mide el rendimiento esperado del proyecto,
-                       la TIR es 5.9%, lo que significa que el proyecto tiene una tasa de retorno positiva. Si tu tasa de descuento o costo 
-                       de capital es menor a este valor, el proyecto es viable.
+                       La TIR es la tasa de descuento a la cual el VAN es igual a cero. Es decir, mide el rendimiento esperado del proyecto. En base a la tabla, la TIR 
+                       es 9%, lo que significa que el proyecto tiene una tasa de retorno positiva. Esto implica que, si el costo de capital o tasa de descuento es menor 
+                       al 9%, el proyecto será rentable. Cuanto mayor sea la TIR en relación con el costo de capital, mayor será la ganancia generada por la inversión.
 <br>
     <div style="text-align: center;">
         <img src="img/TIR.jpg" alt="Tasa Interna Retorno" style="width:100%; max-width:600px; height:auto;">

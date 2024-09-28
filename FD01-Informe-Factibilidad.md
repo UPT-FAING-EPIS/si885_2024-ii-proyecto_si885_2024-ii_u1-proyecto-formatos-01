@@ -264,11 +264,12 @@ Herramientas de Análisis y Visualización de Datos:
         5.1.1. Beneficios del Proyecto
    
                ● Beneficios Tangibles:
-                  - Reducción de costos operativos (ahorro del 10% equivalente a S/ 101,400).
-                  - Incremento de ingresos (S/ 1,800,000 anuales).
-                  - Optimización de recursos (mejor uso de personal, materiales y logística).
+                  - Reducción de egresos a 173 €, lo que optimiza los costos operativos
+                  - Valor Actual Neto (VAN) positivo de 1,880.34 €, confirmando la rentabilidad del proyecto.
+                  - Mejor uso de recursos financieros y humanos, maximizando la eficiencia general.
                   - Mejora en la eficiencia de admisiones.
-                  - Inversiones en infraestructura y recursos tecnológicos.
+                  - Se prevé un ingreso anual de 4,000 €, lo que asegura la sostenibilidad financiera.
+                  - Generación de un Flujo de Caja Neto (FCN) positivo de 3,827 €, garantizando liquidez.
 
                ● Beneficios Intangibles:
                   - Mejora en la toma de decisiones estratégicas.

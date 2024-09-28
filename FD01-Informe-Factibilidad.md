@@ -272,12 +272,12 @@ Herramientas de Análisis y Visualización de Datos:
                   - Generación de un Flujo de Caja Neto (FCN) positivo de 3,827 €, garantizando liquidez.
 
                ● Beneficios Intangibles:
-                  - Mejora en la toma de decisiones estratégicas.
-                  - Incremento en la satisfacción del postulante.
-                  - Fortalecimiento de la imagen institucional.
-                  - Mayor competitividad en el mercado educativo.
+                  - Mejora en la toma de decisiones estratégicas mediante análisis de datos precisos.
+                  - Incremento en la retención de estudiantes al detectar riesgos de abandono tempranamente.
+                  - Fortalecimiento de la imagen institucional, aumentando la confianza en la EPIS UPT.
+                  - Mayor efectividad en las intervenciones de tutoría, brindando apoyo oportuno a los estudiantes en riesgo.
                   - Adaptabilidad y resiliencia ante cambios.
-                  - Fomento de una cultura de innovación y mejora continua.
+                  - Fomento de una cultura proactiva en la prevención del abandono escolar.
 
 <br>
         

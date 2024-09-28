@@ -264,12 +264,12 @@ Herramientas de Análisis y Visualización de Datos:
         5.1.1. Beneficios del Proyecto
    
                ● Beneficios Tangibles:
-                  - Reducción de egresos a 173 €, lo que optimiza los costos operativos
-                  - Valor Actual Neto (VAN) positivo de 1,880.34 €, confirmando la rentabilidad del proyecto.
+                  - Reducción de egresos a S/ 173, lo que optimiza los costos operativos
+                  - Valor Actual Neto (VAN) positivo de S/ 1,880.34, confirmando la rentabilidad del proyecto.
                   - Mejor uso de recursos financieros y humanos, maximizando la eficiencia general.
                   - Mejora en la eficiencia de admisiones.
-                  - Se prevé un ingreso anual de 4,000 €, lo que asegura la sostenibilidad financiera.
-                  - Generación de un Flujo de Caja Neto (FCN) positivo de 3,827 €, garantizando liquidez.
+                  - Se prevé un ingreso anual de S/ 4,000, lo que asegura la sostenibilidad financiera.
+                  - Generación de un Flujo de Caja Neto (FCN) positivo de S/ 3,827, garantizando liquidez.
 
                ● Beneficios Intangibles:
                   - Mejora en la toma de decisiones estratégicas mediante análisis de datos precisos.
@@ -282,12 +282,12 @@ Herramientas de Análisis y Visualización de Datos:
 <br>
         
         5.1.2. Criterios de Inversión
-                Se proyectan ingresos de S/ 1,800,000 por año durante tres años, sumando un total de S/ 5,400,000.
-                Los egresos anuales son de S/ 1,014,000, alcanzando un total de S/ 3,055,085.
+                Se proyectan ingresos anuales de S/ 4,000 durante cuatro años, sumando un total de S/ 16,000.
+                Los egresos anuales son de S/ 173, alcanzando un total de S/ 692 en el mismo período.
                 
                 - Flujo de Caja Neto (FCN) y Valor Actual:
-                El flujo de caja neto se calcula restando los egresos de los ingresos.
-                El valor actual muestra los valores descontados de los flujos de caja a lo largo del tiempo, llegando a S/ 4,676,745.                
+                El Flujo de Caja Neto (FCN) se calcula restando los egresos de los ingresos, obteniendo S/ 15,308 por año.
+                El Valor Actual Neto (VAN), descontando los flujos de caja a lo largo del tiempo, llega a S/ 7,520.34, lo que indica la rentabilidad del proyecto.               
 <br>
     <div style="text-align: center;">
         <img src="img/Prediccion_postulantes.jpg" alt="Prediccion Postulantes" style="width:100%; max-width:600px; height:auto;">

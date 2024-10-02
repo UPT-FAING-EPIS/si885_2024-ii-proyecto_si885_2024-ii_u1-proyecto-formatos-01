@@ -182,7 +182,6 @@ Los principales interesados en el Dashboard de Detección Temprana de Abandono E
 Los usuarios del sistema incluirán:
 - **Tutora:** Utilizará el dashboard para identificar y apoyar a estudiantes en riesgo, facilitando intervenciones oportunas.
 - **Administradores académicos:** Monitorearán las métricas de retención y evaluarán la efectividad del sistema.
-- **Estudiantes:** Tendrán acceso a datos relevantes para monitorear su propio progreso.
 
 ## <a name="_toc177202763"></a>3.3 Entorno de usuario
 El entorno de usuario incluye:
@@ -215,7 +214,6 @@ El entorno de usuario incluye:
 ## <a name="_toc177202766"></a>3.6 Necesidades de los interesados y usuarios
 - **Tutora:** Necesita herramientas para identificar rápidamente a estudiantes en riesgo y métodos eficaces de intervención.
 - **Administración:** Requiere datos precisos y en tiempo real sobre la retención estudiantil para fundamentar decisiones informadas.
-- **Estudiantes:** Desean acceso a recursos y apoyo para mejorar su desempeño académico.
   
 # <a name="_toc177202767"></a>**4. Vista General del Producto**
 

@@ -98,14 +98,12 @@ Versión *{1.0}*
 
    1.4.1 Objetivo general
     <p style="text-align: justify;">
-    			Implementar un dashboard interactivo que permita detectar de manera temprana el riesgo de abandono estudiantil en los alumnos de EPIS UPT, mediante el análisis de datos académicos y sociodemográficos, para mejorar las estrategias de tutoría y asegurar la permanencia de los estudiantes en sus estudios.
+    			Implementar un dashboard interactivo que permita detectar de manera temprana el riesgo de abandono estudiantil en los alumnos de EPIS UPT, mediante el análisis de datos académicos, para mejorar las estrategias de tutoría y asegurar la permanencia de los estudiantes en sus estudios.
     </p>
     1.4.2 Objetivos Específicos
     <p style="text-align: justify;">
      - **Identificar patrones de inasistencia y rendimiento académico** que puedan estar asociados con un alto riesgo de abandono.
-    
-     - **Analizar la relación entre variables sociodemográficas** como el género y la edad, y su impacto en el rendimiento académico y la asistencia.
-   
+     
      - **Proporcionar visualizaciones dinámicas y fáciles de interpretar** para que los tutores y docentes puedan tomar decisiones informadas sobre la intervención temprana con los estudiantes en riesgo.
     
      - **Generar alertas tempranas y reportes personalizadosv** basados en indicadores de riesgo académico, facilitando la toma de acciones correctivas en el proceso de tutoría.
@@ -159,7 +157,7 @@ Entre las principales causas que contribuyen a este fenómeno se encuentran las 
     Disco Duro: SSD de 256GB o HDD de 500GB a 1TB.
     Tarjeta Gráfica: GPU integrada (Intel HD Graphics) o discreta (NVIDIA GeForce).
     Monitores: Pantallas de 21" o más, resolución Full HD.
-    Conectividad: Conexión a red LAN y Wi-Fi con velocidad adecuada para procesamiento de datos y transmisión de               información.
+    Conectividad: Conexión a red LAN y Wi-Fi con velocidad adecuada para procesamiento de datos y transmisión de información.
 
 Herramientas de Análisis y Visualización de Datos:
     Tableau: Software que puede ser utilizado para la creación y despliegue de dashboards interactivos. Alternativamente, podrían usarse soluciones open-source como Metabase.

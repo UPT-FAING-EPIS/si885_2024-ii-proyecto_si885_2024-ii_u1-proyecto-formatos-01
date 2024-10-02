@@ -323,20 +323,20 @@ Herramientas de Análisis y Visualización de Datos:
 6. <span id="_Toc52661357" class="anchor"></span>**Conclusiones**
 
 - **Cumplimiento Legal y Ético:**
-  - Es crucial adherirse a las leyes y regulaciones vigentes en cualquier proyecto que involucre la recolección y análisis de datos, como la predicción de postulantes.
+  - Es crucial adherirse a las leyes y regulaciones vigentes en cualquier proyecto que involucre la recolección y análisis de datos, como el riesgo de abandono estudiantil.
   - Esto no solo protege los derechos de los individuos, sino que también asegura que la institución actúe de manera ética y responsable, evitando posibles sanciones y problemas legales.
 
 - **Transparencia y Capacitación:**
-  - La transparencia en la gestión de datos y la capacitación del personal son elementos clave para construir una relación de confianza con los postulantes.
+  - La transparencia en la gestión de datos y la capacitación del personal son elementos clave para construir una relación de confianza con los estudiantes.
   - Una comunicación adecuada sobre cómo se manejarán los datos y el compromiso con la protección de la información puede resultar en una mayor aceptación y participación en el proceso de inscripción.
 
 
 - **Factibilidad Social Alta:**
-  - Si se implementa correctamente, con las medidas de seguridad adecuadas y una formación apropiada para el personal, la integración de un dashboard de Power BI restringido al personal encargado es socialmente factible y beneficioso para la universidad.
+  - Si se implementa correctamente, con las medidas de seguridad adecuadas y una formación apropiada para el personal, la integración de un dashboard de Tableau restringido al personal encargado es socialmente factible y beneficioso para la universidad.
   - Esto mejorará la eficiencia, la toma de decisiones y la colaboración interna, mientras protege la confidencialidad de la información.
 
 - **Factibilidad Ambiental Alta:**
-  - La implementación de un dashboard de Power BI tiene un impacto ambiental reducido y, en muchos aspectos, positivo, como la reducción del uso de papel y la mejora en la eficiencia operativa.
+  - La implementación de un dashboard de Tableau tiene un impacto ambiental reducido y, en muchos aspectos, positivo, como la reducción del uso de papel y la mejora en la eficiencia operativa.
   - Aunque hay un aumento en el consumo de energía y la huella de carbono digital, estos pueden mitigarse mediante el uso de tecnologías y prácticas sostenibles.
 
 - **Factibilidad Técnica Alta:**

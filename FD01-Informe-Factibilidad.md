@@ -282,11 +282,11 @@ Herramientas de Análisis y Visualización de Datos:
 <br>
         
         5.1.2. Criterios de Inversión
-                Se proyectan ingresos anuales de S/ 4,000 durante cuatro años, sumando un total de S/ 16,000.
+                Se proyectan ingresos anuales de S/ 4,000 durante cuatro meses, sumando un total de S/ 16,000.
                 Los egresos anuales son de S/ 173, alcanzando un total de S/ 692 en el mismo período.
                 
                 - Flujo de Caja Neto (FCN) y Valor Actual:
-                El Flujo de Caja Neto (FCN) se calcula restando los egresos de los ingresos, obteniendo S/ 15,308 por año.
+                El Flujo de Caja Neto (FCN) se calcula restando los egresos de los ingresos, obteniendo S/ 15,308.
                 El Valor Actual Neto (VAN), descontando los flujos de caja a lo largo del tiempo, llega a S/ 7,520.34, lo que indica la rentabilidad del proyecto.               
 <br>
     <div style="text-align: center;">

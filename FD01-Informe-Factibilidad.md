@@ -86,7 +86,7 @@ Versión *{1.0}*
 
     1.2. Duración del proyecto<br>
     
-   Un tiempo de 30 dias
+   Un tiempo de 3 meses.
    
     1.3. Descripción
 

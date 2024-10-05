@@ -218,7 +218,7 @@ El entorno de usuario incluye:
 # <a name="_toc177202767"></a>**4. Vista General del Producto**
 
 ## <a name="_toc177202768"></a>**4.1 Perspectiva del producto**
-El Dashboard de Detección Temprana de Abandono Estudiantil es una herramienta desarrollada para ayudar a la tutora y a la administración de la universidad a identificar y apoyar a estudiantes en riesgo de abandono. Utilizando Power BI, el sistema integrará diversas fuentes de datos académicos y de comportamiento, permitiendo un análisis visual y dinámico que facilitará la toma de decisiones informadas.
+El Dashboard de Detección Temprana de Abandono Estudiantil es una herramienta desarrollada para ayudar a la tutora y a la administración de la universidad a identificar y apoyar a estudiantes en riesgo de abandono. Utilizando  BI, el sistema integrará diversas fuentes de datos académicos y de comportamiento, permitiendo un análisis visual y dinámico que facilitará la toma de decisiones informadas.
 
 ## <a name="_toc177202769"></a>**4.2 Resumen de capacidades**
 - **Visualización de datos en tiempo real:** Dashboards interactivos que permiten monitorear el rendimiento estudiantil de forma continua.
@@ -229,21 +229,21 @@ El Dashboard de Detección Temprana de Abandono Estudiantil es una herramienta d
 
 ## <a name="_toc177202770"></a>**4.3 Suposiciones y dependencias**
 ### Suposiciones:
-- Los datos necesarios para el análisis estarán disponibles y en formatos compatibles con Power BI.
+- Los datos necesarios para el análisis estarán disponibles y en formatos compatibles con Tableau.
 - La tutora y los administradores tendrán el entrenamiento adecuado para utilizar el sistema eficientemente.
 - La implementación del dashboard se realizará sin interrupciones significativas en las operaciones académicas.
 
 ### Dependencias:
 - Integración con sistemas existentes de gestión académica para la recopilación de datos.
-- Requerimientos de infraestructura tecnológica para el uso de Power BI.
+- Requerimientos de infraestructura tecnológica para el uso de Tableau.
 - Soporte continuo de los proveedores de tecnología durante la implementación.
 
 ## <a name="_toc177202771"></a>**4.4 Costos y precios**
 Los costos asociados con el desarrollo e implementación del Dashboard de Detección Temprana de Abandono Estudiantil están detallados en el documento FD01-Informe de Factibilidad.
 
 ## <a name="_toc177202772"></a>**4.5 Licenciamiento e instalación**
-El uso de Power BI requiere la adquisición de licencias adecuadas que se alineen con el número de usuarios y las características del sistema. El proceso de instalación incluirá:
-- Configuración del entorno de Power BI.
+El uso de Tableau requiere la adquisición de licencias adecuadas que se alineen con el número de usuarios y las características del sistema. El proceso de instalación incluirá:
+- Configuración del entorno de Tableau.
 - Integración de las fuentes de datos.
 - Capacitación para la tutora y los administradores sobre el uso del dashboard.
 - Soporte técnico inicial durante la fase de implementación para asegurar una transición fluida.

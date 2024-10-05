@@ -102,6 +102,7 @@ Versión *{1.0}*
     </p>
     1.4.2 Objetivos Específicos
     <p style="text-align: justify;">
+        
      - **Identificar patrones de inasistencia y rendimiento académico** que puedan estar asociados con un alto riesgo de abandono.
      
      - **Proporcionar visualizaciones dinámicas y fáciles de interpretar** para que los tutores y docentes puedan tomar decisiones informadas sobre la intervención temprana con los estudiantes en riesgo.

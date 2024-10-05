@@ -218,7 +218,7 @@ El entorno de usuario incluye:
 # <a name="_toc177202767"></a>**4. Vista General del Producto**
 
 ## <a name="_toc177202768"></a>**4.1 Perspectiva del producto**
-El Dashboard de Detección Temprana de Abandono Estudiantil es una herramienta desarrollada para ayudar a la tutora y a la administración de la universidad a identificar y apoyar a estudiantes en riesgo de abandono. Utilizando  BI, el sistema integrará diversas fuentes de datos académicos y de comportamiento, permitiendo un análisis visual y dinámico que facilitará la toma de decisiones informadas.
+El Dashboard de Detección Temprana de Abandono Estudiantil es una herramienta desarrollada para ayudar a la tutora y a la administración de la universidad a identificar y apoyar a estudiantes en riesgo de abandono. Utilizando Tableau, el sistema integrará diversas fuentes de datos académicos y de comportamiento, permitiendo un análisis visual y dinámico que facilitará la toma de decisiones informadas.
 
 ## <a name="_toc177202769"></a>**4.2 Resumen de capacidades**
 - **Visualización de datos en tiempo real:** Dashboards interactivos que permiten monitorear el rendimiento estudiantil de forma continua.

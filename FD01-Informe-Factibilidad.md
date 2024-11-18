@@ -98,19 +98,18 @@ Versión *{1.0}*
 
    1.4.1 Objetivo general
     <p style="text-align: justify;">
-    			Implementar un dashboard interactivo que permita detectar de manera temprana el riesgo de abandono estudiantil en los alumnos de EPIS UPT, mediante el análisis de datos académicos, para mejorar las estrategias de tutoría y asegurar la permanencia de los estudiantes en sus estudios.
+    			Implementar un dashboard interactivo que permita identificar de manera temprana el riesgo de abandono estudiantil en los alumnos de EPIS UPT mediante el análisis de datos académicos y sociodemográficos, con el propósito de fortalecer las estrategias de tutoría y mejorar la permanencia de los estudiantes.
     </p>
     1.4.2 Objetivos Específicos
     <p style="text-align: justify;">
         
-     - **Identificar patrones de inasistencia y notas académicas** que puedan estar asociados con un alto riesgo de abandono.
+     - Identificar patrones en variables académicas como la inasistencia y las notas, así como su relación con el riesgo de abandono estudiantil.
      
-     - **Proporcionar visualizaciones dinámicas y fáciles de interpretar** para que los tutores y docentes puedan tomar decisiones informadas sobre la intervención temprana con los estudiantes en riesgo.
+     - Proporcionar visualizaciones dinámicas y accesibles para facilitar la toma de decisiones informadas por parte de tutores y docentes en la intervención con estudiantes en riesgo.
     
-     - **Analizar la relación entre variables sociodemográficas** como el género , la edad , curso , ciclo  , el notas académicas y la asistencia.
+     - Analizar la influencia de variables sociodemográficas como el género, la edad, el curso, y el ciclo académico en el desempeño y asistencia de los estudiantes.
     
-    - **Optimizar las estrategias de tutoría** mediante el uso de datos históricos que permitan detectar tendencias de deserción y proponer mejoras a nivel institucional.
-    </p>
+    - Aprovechar datos históricos para identificar tendencias de deserción y optimizar las estrategias de tutoría a nivel institucional, fomentando la retención estudiantil.
 
 
 3. <span id="_Toc52661347" class="anchor"></span>**Riesgos**

@@ -104,13 +104,11 @@ Versión *{1.0}*
     <p style="text-align: justify;">
         
      - Identificar patrones en variables académicas como la inasistencia y las notas, así como su relación con el riesgo de abandono estudiantil.
-     
      - Proporcionar visualizaciones dinámicas y accesibles para facilitar la toma de decisiones informadas por parte de tutores y docentes en la intervención con estudiantes en riesgo.
-    
-     - Analizar la influencia de variables sociodemográficas como el género, la edad, el curso, y el ciclo académico en el desempeño y asistencia de los estudiantes.
-    
-    - Aprovechar datos históricos para identificar tendencias de deserción y optimizar las estrategias de tutoría a nivel institucional, fomentando la retención estudiantil.
-
+     - Analizar la influencia de variables sociodemográficas como el género, la edad, el curso, el ciclo académico, las faltas y las notas académicas en la continuidad de los estudios.
+     - Aprovechar datos históricos para identificar tendencias de deserción y optimizar las estrategias de tutoría a nivel institucional, fomentando la retención estudiantil.
+     - Evaluar el impacto de los cruces de horarios y su relación con la asistencia y el desempeño académico, para proponer ajustes en la planificación de horarios y estrategias de retención.
+     - Establecer indicadores clave de desempeño estudiantil mediante el análisis combinado de matrícula, faltas y notas, que permitan monitorear el progreso académico y detectar a tiempo a los estudiantes en riesgo.
 
 3. <span id="_Toc52661347" class="anchor"></span>**Riesgos**
 

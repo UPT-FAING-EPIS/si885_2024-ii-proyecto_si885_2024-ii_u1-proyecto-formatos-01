@@ -1,230 +1,352 @@
-<center>
+![](Aspose.Words.b710fbcb-70e8-41d6-b941-0a43c23a1a78.001.png)
 
-[comment]: <img src="./media/media/image1.png" style="width:1.088in;height:1.46256in" alt="escudo.png" />
+**UNIVERSIDAD PRIVADA DE TACNA** 
 
-![./media/media/image1.png](./media/logo-upt.png)
+**FACULTAD DE INGENIERIA** 
 
-**UNIVERSIDAD PRIVADA DE TACNA**
+**Escuela Profesional de Ingeniería de Sistemas** 
 
-**FACULTAD DE INGENIERIA**
+` `**Proyecto Análisis de datos sobre la influencia del COVID-19 en la Encuesta Nacional de Hogares 2022: Salud** 
 
-**Escuela Profesional de Ingeniería de Sistemas**
+Curso: *Inteligencia de Negocios* Docente: *Patrick Cuadros Quiroga* 
 
-**Proyecto *{Nombre de Proyecto}***
+Integrantes: 
 
-Curso: *{Nombre de Asignatura}*
+***Lira Álvarez, Rodrigo Samael Adonai    (2019063331)* Soto Rodríguez, Duanet                       (2015051384) *Chávez Linares, Cesar Fabian (2019063854) Cutipa Machaca, Arnold Félix    (2019064040) Arce Bracamonte, Sebastián Rodrigo   (2019062986)***
 
-Docente: *{Nombre de Docente}*
+**Tacna – Perú** 
 
-Integrantes:
+***2024***
 
-***{Apellidos y nombres del estudiante (código universitario)}***
+**Proyecto Análisis de datos sobre la influencia del COVID-19 en la Encuesta Nacional de Hogares 2022: Salud** 
 
-**Tacna – Perú**
+**Informe de Factibilidad** 
 
-***{Año}***
+**Versión *2.0*** 
 
-**  
-**
-</center>
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-Sistema *{Nombre del Sistema}*
 
-Informe de Factibilidad
+|CONTROL DE VERSIONES ||||||
+| - | :- | :- | :- | :- | :- |
+|Versión ![](Aspose.Words.b710fbcb-70e8-41d6-b941-0a43c23a1a78.002.png)|Hecha por ![](Aspose.Words.b710fbcb-70e8-41d6-b941-0a43c23a1a78.003.png)|Revisada por ![](Aspose.Words.b710fbcb-70e8-41d6-b941-0a43c23a1a78.004.png)|Aprobada por ![](Aspose.Words.b710fbcb-70e8-41d6-b941-0a43c23a1a78.005.png)|Fecha ![](Aspose.Words.b710fbcb-70e8-41d6-b941-0a43c23a1a78.006.png)|Motivo ![](Aspose.Words.b710fbcb-70e8-41d6-b941-0a43c23a1a78.007.png)|
+|1\.0 |RLA |PCQ |PCQ |11/06/2024 |Versión Original |
+|2\.0 |RLA |PCQ |PCQ |19/07/2024 |Criterios de Inversión |
 
-Versión *{1.0}*
+**ÍNDICE GENERAL** 
 
-|CONTROL DE VERSIONES||||||
-| :-: | :- | :- | :- | :- | :- |
-|Versión|Hecha por|Revisada por|Aprobada por|Fecha|Motivo|
-|1\.0|MPV|ELV|ARV|10/10/2020|Versión Original|
+1. [**Descripción del Proyecto** ](#_page3_x68.00_y112.92) 4 
+1. [**Riesgos** ](#_page4_x68.00_y112.92) 5 
+1. [**Análisis de la Situación actual**  5](#_page4_x68.00_y284.92) 
+1. [**Estudio de Factibilidad**  6](#_page5_x68.00_y232.92) 
+1. [**Factibilidad Técnica**  6](#_page5_x68.00_y354.92) 
+1. [**Factibilidad económica**  7](#_page6_x68.00_y507.92) 
+1. [**Factibilidad Operativa**  9](#_page8_x68.00_y198.92) 
+1. [**Factibilidad Lega**l  10 ](#_page9_x68.00_y153.92)
+1. [**Factibilidad Social**  1](#_page9_x68.00_y411.92)0 
+1. [**Factibilidad Ambiental**  1](#_page9_x68.00_y627.92)0 
+5. [**Análisis Financiero**  11](#_page10_x68.00_y194.92) 
+5. [**Conclusiones**  1](#_page13_x68.00_y70.92)2 
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+**Informe de Factibilidad** 
 
-# **INDICE GENERAL**
+1. **Descripción<a name="_page3_x68.00_y112.92"></a> del Proyecto** 
+1. **Nombre del proyecto** 
 
-[1. Descripción del Proyecto](#_Toc52661346)
+Proyecto  Análisis  de  datos  sobre  la  influencia  del  COVID-19  en  la  Encuesta 
 
-[2. Riesgos](#_Toc52661347)
+Nacional de Hogares 2022: Salud 
 
-[3. Análisis de la Situación actual](#_Toc52661348)
+2. **Duración del proyecto** Estimamos que la duración sería 1 mes 
+2. **Descripción**  
 
-[4. Estudio de Factibilidad](#_Toc52661349)
+` `El proyecto será documentado en base a la información que se obtendrá de la Encuesta sobre la influencia del Covid-19 y los procesos al realizarse en su tiempo. 
 
-[4.1 Factibilidad Técnica](#_Toc52661350)
+**1.4 Objetivos** 
 
-[4.2 Factibilidad económica](#_Toc52661351)
+1. **Objetivo general** 
 
-[4.3 Factibilidad Operativa](#_Toc52661352)
+Implementar un DataMart para analizar datos específicos (COVID-19) de la data proporcionada por la Encuesta Nacional de Hogares 2022, en el sector salud. 
 
-[4.4 Factibilidad Legal](#_Toc52661353)
+2. **Objetivos Específicos** 
+- *Implementar un DataMart para analizar datos específicos (COVID-19) de la data proporcionada por la Encuesta Nacional de Hogares 2022, en el sector salud.* 
+- *Visualizar si en las últimas 4 semanas, los encuestados presentaron algún(a) síntoma de COVID-19 (fiebre, tos seca, sensación de ahogo).* 
+- *Visualizar si en las últimas 4 semanas a los encuestados les realizaron alguna prueba para descartar el COVID-19.* 
+- *Visualizar cuál fue el resultado de esa/s prueba/s.* 
+- *Visualizar si los encuestados han tomado medicamentos por prevención o como parte de un tratamiento para el COVID-19.* 
+- *Visualizar si los encuestados recibieron la vacuna contra el COVID-19.* 
+- *Visualizar cuántas dosis le aplicaron a los encuestados.* 
+- *Visualizar si la vacuna contra el COVID-19 que los encuestados recibieron fue pagada, donada o recibida en el extranjero.* 
+2. **Riesgos<a name="_page4_x68.00_y112.92"></a>** 
+- Mala estimación de tiempos 
+- Escatimar en el control de calidad. 
+- Diseño inadecuado. 
+- Confiar demasiado en tecnologías-herramientas no exploradas previamente. ... 
+- Añadir más personal a un proyecto atrasado. 
+- Tener un ordenador que no cumpla con los requisitos de hardware y/o software 
+3. **Análisis<a name="_page4_x68.00_y284.92"></a> de la Situación actual** 
+1. **Planteamiento del problema** 
+1. **Consideraciones de hardware y software** 
 
-[4.5 Factibilidad Social](#_Toc52661354)
 
-[4.6 Factibilidad Ambiental](#_Toc52661355)
 
-[5. Análisis Financiero](#_Toc52661356)
+|**COMPUTADORAS PARA EL DESARROLLO** ||
+| - | :- |
+|**Hardware** |**Descripción** |
+|Monitor |Samsung 24’Hp 24’ |
+|Procesador |Intel Core i7 3.40GHz |
+|Sistema Operativo |Windows 10 Professional 64 bits |
+|RAM |12 GB |
+|Almacenamiento |1 – 2 TB |
+|Impresora |HP Deskjet 4530 |
+|**Software** |**Descripción** |
+|Navegador |Google Chrome |
+|Diseñador  de  base  de datos |MySQL Workbench 8.0 |
 
-[6. Conclusiones](#_Toc52661357)
 
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+|Entorno de Desarrollo |Apache  NetBeans  IDE 12.4 |
+| - | :- |
+|Modelador  Visual  de sistemas software. |IBM  Rational  Rose Enterprise Edition |
+|Herramientas Microsoft |Microsoft  Office  365 Empresa Estándar |
+|Servidor web local |XAMPP Control Panel |
 
-**<u>Informe de Factibilidad</u>**
+4. **Estudio<a name="_page5_x68.00_y232.92"></a> de Factibilidad** 
 
-1. <span id="_Toc52661346" class="anchor"></span>**Descripción del Proyecto**
+   El estudio de Factibilidad busca analizar los beneficios generales obtenidos con la implementación del desarrollo del software a la empresa y sus procesos. 
 
-    1.1. Nombre del proyecto
+   Estos beneficios incluyen la agilización de los procesos de venta de la empresa y un control de los usuarios. 
 
-    1.2. Duración del proyecto
+1. **Factibilidad<a name="_page5_x68.00_y354.92"></a> Técnica** 
 
-    1.3. Descripción
+Requerimientos Técnicos para el desarrollo del Proyecto 
 
-        En que consiste el proyecto/importancia del mismo, contexto en que se va desenvolver
 
-    1.4. Objetivos
 
-        1.4.1 Objetivo general
-        1.4.2 Objetivos Específicos
-            Para cada objetivo específico se indicara que se va a lograr
+|**Características** |**Requerimientos mínimos** |
+| - | - |
+|Procesador |Intel Core i5 2.4ghz |
+|Sistema Operativo |Windows 11 Professional 64 bits |
+|RAM |16GB |
+|Almacenamiento |1TB |
+|Software |<p>Google Chrome </p><p>IBM Rational Rose Enterprise </p><p>Visual Studio Enterprise 2019 SQL  Server  Management  Studio 18 </p><p>**Microsoft  Office  365  Empresa Estándar** </p>|
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+Características comerciales de software para desarrollo 
 
-2. <span id="_Toc52661347" class="anchor"></span>**Riesgos**
 
-    Señale los riesgos que pudieran afectar el éxito del proyecto.}*
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+|**Software** |**Licencia** |
+| - | - |
+|Google Chrome |Gratuita |
 
-3. <span id="_Toc52661348" class="anchor"></span>**Análisis de la Situación actual**
 
-    3.1. Planteamiento del problema
 
-            Describa antecedentes y situación actual, explicando la problemática y/o necesidad que será resuelta con el proyecto propuesto.
+|IBM Rational Rose Enterprise |Gratuita |
+| - | - |
+|**Microsoft 365 Empresa Estándar** |$ 12.50 |
+|Visual Studio Enterprise 2022 |$ 45.00 |
+|SQL Server Management Studio 20 |$ 850.00 |
 
-    3.2. Consideraciones de hardware y software
+Requerimientos Técnicos para funcionamiento: 
 
-            Hardware y software posibles para la implementación, se analizara lo que existe y es alcanzable, se evaluara que tecnología se puede > utilizar en el proyecto.
+Para la implementación del sistema se requerirá un servidor, el cual debe contar con las siguientes características mínimas. 
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-4. <span id="_Toc52661349" class="anchor"></span>**Estudio de
-    Factibilidad**
 
-    Describir los resultados que esperan alcanzar del estudio de factibilidad, las actividades que se realizaron para preparar la evaluación de factibilidad y por quien fue aprobado.
+|**Requerimientos del servidor** ||
+| - | :- |
+|**Hardware** |**Software** |
+|Procesador: Intel Core i7 3.4ghz |Sistema  Operativo:   Windows Server 2022 Datacenter 64 bits |
+|Memoria: RAM 16GB |Base  de  datos:  SQL  Server Management Studio 20 |
+|Disco Duro: 2TB HDD ||
 
-    4.1. <span id="_Toc52661350" class="anchor"></span>Factibilidad Técnica
 
-        El estudio de viabilidad técnica se enfoca en obtener un entendimiento de los recursos tecnológicos disponibles actualmente y su aplicabilidad a las necesidades que se espera tenga el proyecto. En el caso de tecnología informática esto implica una evaluación del hardware y software y como este puede cubrir las necesidades del sistema propuesto.
+|**Requerimientos del equipo** ||
+| - | :- |
+|**Hardware** |**Software** |
+|Procesador: Intel Core i5 2.4ghz |Sistema  Operativo:  Windows  11 Professional 64 bits |
+|Memoria: RAM 8GB |Visual Studio Enterprise 2022 |
+|Disco Duro: 1TBHDD ||
+2. **Factibilidad<a name="_page6_x68.00_y507.92"></a> Económica** 
 
-        Realizar una evaluación de la tecnología actual existente y la posibilidad de utilizarla en el desarrollo e implantación del sistema.*
+Este  estudio  tiene  como  finalidad  evaluar  la  viabilidad  del  proyecto  en  el  área económica, es decir, si existen los recursos para invertir en el desarrollo del software y sus beneficios al momento de implementarlo.  
 
-        Describir acerca del hardware (equipos, servidor), software (aplicaciones, navegadores, sistemas operativos, dominio, internet, infraestructura de red física, etc.
+Inversión Inicial de Costos por el Paquete Microsoft 365 Empresa Estándar = $12.50 
 
-    4.2. <span id="_Toc52661351" class="anchor"></span>Factibilidad Económica
+Inversión Inicial de Costos por la Licencia de Visual Studio Enterprise 2019 (Suscripción de Professional) = $45.00 
 
-        El propósito del estudio de viabilidad económica, es determinar los beneficios económicos del proyecto o sistema propuesto para la organización, en contraposición con los costos.
-        Como se mencionó anteriormente en el estudio de factibilidad técnica wvaluar si la institución (departamento de TI) cuenta con las herramientas necesarias para la implantación del sistema y evaluar si la propuesta requiere o no de una inversión inicial en infraestructura informática.
-        Se plantearán los costos del proyecto.
-        Costeo del Proyecto: Consiste en estimar los costos de los recursos Humanos, materiales o consumibles y/o máquinas) directos para completar las actividades del proyecto}.*
+Inversión Inicial de Costos por la Licencia de Microsoft SQL Server = $850 
 
-        Definir los siguientes costos:
+Definir los siguientes costos: 
 
-        4.2.1. Costos Generales
+1. **Costos Generales**  
 
-                Los costos generales son todos los gastos realizados en accesorios y material de oficina y de uso diario, necesarios para los procesos, tales como, papeles, plumas, cartuchos de impresora, marcadores, computadora etc. Colocar tabla de costos.
 
-        4.2.2. Costos operativos durante el desarrollo 
-        
-                Evaluar costos necesarios para la operatividad de las actividades de la empresa durante el periodo en el que se realizara el proyecto. Los costos de operación pueden ser renta de oficina, agua, luz, teléfono, etc.
 
-        4.2.3. Costos del ambiente
+|**Materialesdeuso** |**Coste** |
+| - | - |
+|**diario** |**(1mes)** |
+|Papeles |$4.00 |
+|Lapiceros |$2.00 |
+|Correctores |$2.00 |
+|Marcadores |$2.00 |
+|Engrapadora |$10.00 |
+|Grapas |$2.00 |
+|Clips |$0.50 |
+|Total |$22.5 |
 
-                Evaluar si se cuenta con los requerimientos técnicos para la implantación del software como el dominio, infraestructura de red, acceso a internet, etc.
+2. **Costos operativos durante el desarrollo**  
 
-        4.2.4. Costos de personal
 
-                Aquí se incluyen los gastos generados por el recurso humano que se necesita para el desarrollo del sistema únicamente.
 
-                No se considerará personal para la operación y funcionamiento del sistema.
+|**Servicio** |**Costo (1mes)** |
+| - | - |
+|Oficina |$300 |
+|Servicio Eléctrico |$30 |
+|Servicio de Agua |$10 |
+|Total |$340 |
 
-                Incluir tabla que muestra los gastos correspondientes al personal.
+3. **Costos del ambiente** 
 
-                Indicar organización y roles. Indicar horario de trabajo del personal.
 
-        4.2.5.  Costos totales del desarrollo del sistema
 
-                {Totalizar costos y realizar resumen de costo final del proyecto y la forma de pago.
+|**Servicio** |**Coste (1mes)** |
+| - | - |
+|Acceso a Internet |$50 |
+|Total |$50 |
 
-    4.3. <span id="_Toc52661352" class="anchor"></span>Factibilidad Operativa
+4. **Costos de** 
 
-        Describir los beneficios del producto y si se tiene la capacidad por parte del cliente para mantener el sistema funcionando y garantizar el buen funcionamiento y su impacto en los usuarios. Lista de interesados.
+**personal** 
 
-    4.4. <span id="_Toc52661353" class="anchor"></span>Factibilidad Legal
 
-        Determinar si existe conflicto del proyecto con restricciones legales como leyes y regulaciones del país o locales relacionadas con seguridad, protección de datos, conducta de negocio, empleo y adquisiciones.
 
-    4.5. <span id="_Toc52661354" class="anchor"></span>Factibilidad Social 
+|**Rol** |**Horario  (lunes Viernes)** |**a** |**Pago** |
+| - | :- | - | - |
+|Analista |8:00 – 16:00 ||$350 |
+|Administrador  de  base  de datos |8:00 – 16:00 ||$300 |
+|Programador |13:00 – 21:00 ||$300 |
+|Diseñador |13:00 – 21:00 ||$250 |
+|Documentador |13:00 – 21:00 ||$250 |
+|Total ||$1450 ||
 
-        Evaluar influencias y asuntos de índole social y cultural como el clima político, códigos de conducta y ética*
+5. **Costos totales del desarrollo del sistema**  
 
-    4.6. <span id="_Toc52661355" class="anchor"></span>Factibilidad Ambiental
 
-        Evaluar influencias y asuntos de índole ambiental como el impacto y repercusión en el medio ambiente.
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+|Costo |Valor ($USD) |
+| - | - |
+|Desarrollo |907\.5 |
+|Operativos |340 |
+|Ambiente |50 |
+|Personal |1450 |
+|Total |2770 |
 
-5. <span id="_Toc52661356" class="anchor"></span>**Análisis Financiero**
+3. **Factibilidad<a name="_page8_x68.00_y198.92"></a> Operativa** 
 
-    El plan financiero se ocupa del análisis de ingresos y gastos asociados a cada proyecto, desde el punto de vista del instante temporal en que se producen. Su misión fundamental es detectar situaciones financieramente inadecuadas.
-    Se tiene que estimar financieramente el resultado del proyecto.
+La factibilidad operativa del proyecto de Análisis de Datos sobre la Influencia del COVID-19 en la ENAHO 2022 se basa en los siguientes aspectos: 
 
-    5.1. Justificación de la Inversión
+1. **Beneficios del producto** 
+- El proyecto permitirá analizar el impacto del COVID-19 en la salud de los hogares peruanos utilizando los datos de la ENAHO 2022. 
+- Los hallazgos  del  análisis  informarán a  los  responsables  políticos  y partes  interesadas  sobre  cómo  abordar  los  desafíos  de  salud relacionados con el COVID-19 y mejorar la resiliencia de los hogares. 
+- El proyecto generará conocimiento académico a través de la publicación de un artículo científico revisado por pares. 
+2. **Capacidad del cliente para mantener el sistema** 
+- El  proyecto  será  desarrollado  por  un  equipo  de  investigación  con experiencia en el análisis de encuestas de hogares y datos de salud. 
+- El  equipo  cuenta  con  las  habilidades  técnicas  y  el  conocimiento necesario para implementar y mantener el DataMart propuesto. 
+- La  institución  patrocinadora  del  proyecto  tiene  la  infraestructura  y recursos  necesarios  para  garantizar  el  buen  funcionamiento  y sostenibilidad del sistema. 
+3. **Impacto en los usuarios** 
+- Los principales usuarios del proyecto serán los responsables políticos, organizaciones  no  gubernamentales  y  la  comunidad  académica interesada en comprender el impacto del COVID-19 en la salud de los hogares peruanos. 
+- Los  hallazgos  y  recomendaciones  del  proyecto  tendrán  un  impacto directo en la formulación de políticas y programas destinados a mejorar la salud y bienestar de los hogares. 
+4. **Lista de interesados:** 
+- Ministerio de Salud 
+- Instituto Nacional de Estadística e Informática (INEI) 
+- Organizaciones no gubernamentales enfocadas en salud pública 
+- Investigadores  y  académicos  en  el  campo  de  la  salud  pública  y epidemiología 
+- Organismos internacionales como la Organización Mundial de la Salud (OMS) 
+4. **Factibilidad<a name="_page9_x68.00_y153.92"></a> Legal** 
 
-        5.1.1. Beneficios del Proyecto
+En  cuanto  a  la  factibilidad  legal  del  proyecto  de  Análisis  de  Datos  sobre  la Influencia del COVID-19 en la ENAHO 2022, es importante considerar lo siguiente: 
 
-            El beneficio se calcula como el margen económico menos los costes de oportunidad, que son los márgenes que hubieran podido obtenerse de haber dedicado el capital y el esfuerzo a otras actividades.
-            El beneficio, obtenido lícitamente, no es sólo una recompensa a la inversión, al esfuerzo y al riesgo asumidos por el empresario, sino que también es un factor esencial para que las empresas sigan en el  mercado e incorporen nuevas inversiones al tejido industrial y social de las naciones.
-            Describir beneficios tangibles e intangibles*
-            Beneficios tangibles: son de fácil cuantificación, generalmente están relacionados con la reducción de recursos o talento humano.
-            Beneficios intangibles: no son fácilmente cuantificables y están relacionados con elementos o mejora en otros procesos de la organización.
->
-            Ejemplo de beneficios:
+- Leyes y regulaciones sobre protección de datos personales: El proyecto deberá cumplir con las leyes y normativas vigentes en Perú sobre protección de datos personales,  asegurando  la  confidencialidad  y  el  manejo  adecuado  de  la información recopilada en la ENAHO 2022. 
+- Regulaciones sobre investigación en salud pública: El proyecto deberá seguir los lineamientos y permisos necesarios para realizar investigación en el ámbito de la salud pública, de acuerdo a las regulaciones del Ministerio de Salud y otras entidades competentes. 
+- Conducta de negocio y ética: El equipo de investigación deberá adherirse a los códigos  de  conducta  y  principios  éticos  establecidos  por  la  institución patrocinadora del proyecto y las buenas prácticas en investigación. 
+5. **Factibilidad<a name="_page9_x68.00_y411.92"></a> Social** 
 
-            - Mejoras en la eficiencia del área bajo estudio.
-            - Reducción de personal.
-            - Reducción de futuras inversiones y costos.
-            - Disponibilidad del recurso humano.
-            - Mejoras en planeación, control y uso de recursos.
-            - Suministro oportuno de insumos para las operaciones.
-            - Cumplimiento de requerimientos gubernamentales.
-            - Toma acertada de decisiones.
-            - Disponibilidad de información apropiada.
-            - Aumento en la confiabilidad de la información.
-            - Mejor servicio al cliente externo e interno
-            - Logro de ventajas competitivas.
-            - Valor agregado a un producto de la compañía.
-        
-        5.1.2. Criterios de Inversión
+*En cuanto a la factibilidad social del proyecto, se deben considerar los siguientes aspectos:* 
 
-            5.1.2.1. Relación Beneficio/Costo (B/C)
+- *Clima político: El proyecto deberá tomar en cuenta el contexto político y social del país, así como las prioridades y políticas gubernamentales relacionadas con la salud pública y la respuesta al COVID-19.* 
+- *Códigos  de  conducta  y  ética:  El  proyecto deberá  respetar  los  códigos de conducta y principios éticos de la comunidad académica y de investigación, así como las normas sociales y culturales del país.* 
+- *Impacto  en  la  comunidad:  Los  hallazgos  y  recomendaciones  del  proyecto deberán  tener  en  cuenta  el  impacto  social  y  el  bienestar  de  los  hogares peruanos afectados por la pandemia de COVID-19.* 
+6. **Factibilidad<a name="_page9_x68.00_y627.92"></a> Ambiental** 
 
-                En base a los costos y beneficios identificados se evalúa si es factible el desarrollo del proyecto. 
-                Si se presentan varias alternativas de solución se evaluará cada una de ellas para determinar la mejor solución desde el punto de vista del > retorno de la inversión
-                El B/C si es mayor a uno, se acepta el proyecto; si el B/C es igual a uno es indiferente aceptar o rechazar el proyecto y si el B/C es menor a uno se rechaza el proyecto
+En cuanto a la factibilidad ambiental, el proyecto de Análisis de Datos sobre la Influencia del COVID-19 en la ENAHO 2022 no tendría un impacto ambiental significativo, ya que se trata de un proyecto de investigación basado en el análisis de datos. Sin embargo, se deberán considerar los siguientes aspectos: 
 
-            5.1.2.2. Valor Actual Neto (VAN)
-            
-                Valor actual de los beneficios netos que genera el proyecto. Si el VAN es mayor que cero, se acepta el proyecto; si el VAN es igual a cero es indiferente aceptar o rechazar el proyecto y si el VAN es menor que cero se rechaza el proyecto
+- Uso eficiente de recursos: El equipo de investigación deberá promover el uso eficiente de recursos como energía, papel y otros insumos durante el desarrollo del proyecto. 
+- Gestión adecuada de residuos: En caso de generar residuos físicos, como impresiones o materiales de oficina, se deberá asegurar una gestión adecuada y respetuosa con el medio ambiente. 
+- Impacto indirecto: Aunque el proyecto en sí no tenga un impacto ambiental directo,  los  hallazgos  y  recomendaciones  podrían  tener  implicaciones indirectas en la formulación de políticas y programas relacionados con la salud pública y el bienestar de los hogares, lo cual deberá ser considerado. 
+5. **Análisis<a name="_page10_x68.00_y194.92"></a> Financiero** 
 
-            5.1.2.3 Tasa Interna de Retorno (TIR)*
-                Es la tasa porcentual que indica la rentabilidad promedio anual que genera el capital invertido en el proyecto. Si la TIR es mayor que el costo de oportunidad se acepta el proyecto, si la TIR es igual al costo de oportunidad es indiferente aceptar o rechazar el proyecto, si la TIR es menor que el costo de oportunidad se rechaza el proyecto
+   **5.1. Justificación de la Inversión** 
 
-                Costo de oportunidad de capital (COK) es la tasa de interés que podría haber obtenido con el dinero invertido en el proyecto
+1. **Beneficios del Proyecto** 
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+*El beneficio del proyecto de Análisis de Datos sobre la Influencia del COVID-19 en la ENAHO 2022: Salud se calcula como el margen económico menos los costes de oportunidad. Los beneficios del proyecto pueden ser tanto tangibles como intangibles. A continuación, se detallan los beneficios esperados:* 
 
-6. <span id="_Toc52661357" class="anchor"></span>**Conclusiones**
+1. **Beneficios Tangibles** 
+- *Mejoras en la eficiencia del área bajo estudio: El proyecto permitirá una mejor comprensión del impacto del COVID-19 en la salud de los hogares peruanos,  lo  que  mejorará  la  eficiencia  en  la  toma  de  decisiones relacionadas con la salud pública.* 
+- *Reducción  de  personal:  El  proyecto  puede  reducir  la  necesidad  de personal  en  ciertas  áreas,  ya  que  los  datos  analizados  podrían automatizar ciertos procesos.* 
+- *Reducción de futuras inversiones y costos: Los hallazgos del proyecto pueden identificar áreas donde se pueden reducir futuras inversiones y costos en salud pública.* 
+- *Disponibilidad  del  recurso  humano:  El  proyecto  puede  facilitar  la disponibilidad de recursos humanos especializados en salud pública, ya que  los  datos  analizados  pueden  informar  sobre  las  necesidades específicas de personal.* 
+2. **Beneficios Intangibles** 
+- *Mejoras en planeación, control y uso de recursos: El proyecto puede mejorar  la  planeación  y  el  control  de  recursos  en  salud  pública, permitiendo una mejor gestión de los recursos disponibles.* 
+- *Suministro  oportuno  de  insumos  para  las  operaciones:  Los  datos analizados  pueden  ayudar  a  identificar  necesidades  específicas  de insumos para las operaciones de salud pública, asegurando un suministro oportuno.* 
+- *Cumplimiento  de  requerimientos  gubernamentales:  El  proyecto puede ayudar a cumplir con los requerimientos gubernamentales relacionados con la salud pública, proporcionando información precisa y actualizada.* 
+- *Toma acertada de decisiones: Los datos analizados pueden informar sobre las decisiones más adecuadas para abordar los desafíos de salud relacionados con el COVID-19.* 
+- *Disponibilidad  de  información  apropiada:  El  proyecto  proporcionará información precisa y actualizada sobre el impacto del COVID-19 en la salud de los hogares peruanos.* 
+- *Aumento en la confiabilidad de la información: Los datos analizados serán más confiables y precisos, lo que mejorará la toma de decisiones en salud pública.* 
+- *Mejor servicio al cliente externo e interno: Los hallazgos del proyecto pueden  mejorar  el  servicio  al  cliente  externo  e  interno,  ya  que  la información proporcionada será más precisa y útil.* 
+- *Logro de ventajas competitivas: El proyecto puede proporcionar ventajas competitivas a las organizaciones que lo implementen, al proporcionar información de alta calidad sobre el impacto del COVID-19.* 
+- *Valor agregado a un producto de la compañía: Los datos analizados pueden  ser  utilizados  para  agregar  valor  a  productos  y  servicios relacionados con la salud pública.* 
+2. **Criterios de Inversión** 
 
-Explicar los resultados del análisis de factibilidad que nos indican si el proyecto es viable y factible.
+
+
+|**Periodos** |*0* |1 |2 |3 |4 |5 |Total |
+| - | - | - | - | - | - | - | - |
+|**Ingresos** ||2,606 |3,050 |2,800 |2,555 |3,112 |**14,123** |
+|**Costos** ||1800 |1800 |1800 |1800 |1800 |**9,000** |
+|**Inversión**|**  2770 ||||||**2,770** |
+|**Flujo** |-2770 |806 |1,250 |1,000 |755 |1,312 |**5,123** |
+
+Cada periodo indicado en el cuadro tiene una duración de un semestre (6 meses). En el periodo 0 se indica el total de inversión en el proyecto. 
+
+Teniendo en cuenta algunos supuestos: 
+
+- Los costos e ingresos obtenidos durante los 5 periodos son constantes según la información recolectada de la empresa 
+- El  beneficio  económico  generado  por  la  implementación  del  sistema  es constante durante todos los periodos 
+- Los gastos indicados en la tabla incluyen los costos de operación del sistema implementado 
+1. **Relación Beneficio/Costo (B/C)** 
+
+   Considerando estos puntos, el valor de la relación B/C es **1,1295, que** resulta mayor a 1, por lo cual el proyecto es factible. 
+
+2. **Valor Actual Neto (VAN)** 
+
+   El valor del VAN es **$ 4,059.67** y resulta positivo, es recomendable invertir en este proyecto. 
+
+3. **Tasa Interna de Retorno (TIR)** 
+
+   La tasa de interés teórica usada para el cálculo fue **8%** (0.8). El valor de TIR es de **24% (0.24)** el cual es mayor a 8**%**, por lo cual el proyecto es factible. 
+
+<a name="_page13_x68.00_y70.92"></a>**Conclusiones** 
+
+El análisis de factibilidad realizado para el Proyecto de Análisis de Datos sobre la Influencia del COVID-19 en la Encuesta Nacional de Hogares (ENAHO) 2022, con enfoque  en  el  sector  salud,  indica  que  el  proyecto  es  viable  y  factible  de implementar. 
+
+Factibilidad Técnica: El proyecto puede ser implementado utilizando los recursos tecnológicos disponibles, incluyendo hardware, software y la infraestructura de red existente. No se requiere una inversión inicial significativa en tecnología. 
+
+Factibilidad  Económica:  El  análisis  de  costos  muestra  que  el  proyecto  es económicamente viable. Los beneficios tangibles e intangibles superan los costos estimados de desarrollo e implementación. Los indicadores financieros como la Relación Beneficio/Costo, el Valor Actual Neto y la Tasa Interna de Retorno son favorables. 
+
+Factibilidad Operativa: El proyecto cuenta con el respaldo y la capacidad de la institución  patrocinadora  para  mantener  el  sistema  en  funcionamiento.  Los beneficios  del  proyecto,  tanto  para  los  responsables  políticos  como  para  los usuarios finales, justifican su implementación. 
+
+Factibilidad Legal, Social y Ambiental: El proyecto cumple con las regulaciones legales, no presenta conflictos sociales o culturales, y tiene un impacto ambiental mínimo, lo cual no representa obstáculos para su desarrollo. 
+
+En conclusión, el análisis de factibilidad realizado demuestra que el Proyecto de Análisis de Datos sobre la Influencia del COVID-19 en la ENAHO 2022: Salud es viable y factible de implementar, con altas probabilidades de éxito y generación de beneficios significativos para los interesados y usuarios. 
+15 
